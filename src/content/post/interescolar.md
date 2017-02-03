@@ -1,6 +1,6 @@
 +++
 date = "2017-01-19T00:41:15+01:00"
-title = "interescolar"
+title = "VII Interescolar"
 draft = false
 image = "/images/cabecera1.jpg"
 +++
