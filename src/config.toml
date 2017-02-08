@@ -1,0 +1,29 @@
+languageCode = "es-es"
+title = "Ajedrez Tomelloso"
+baseurl = "https://ajedreztomelloso.github.io/"
+paginate = 5
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[params]
+  description = "Nos gusta pensar."
+  cover = "images/img_articulo.png"
+  coverStyle = false
+  author = "Ajedrez Tomelloso"
+  authorlocation = "Tomelloso, Castilla la Mancha"
+  authorwebsite = "http://vjeantet.fr"
+  bio= "my bio"
+  logo = "images/ESCUDO2.jpg"
+  googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  # githubName = "vjeantet"
+  twitterName = "tomellosochess"
+  facebookName = "ajedrez.tomelloso"
+  instagramName = "ajedreztomelloso"
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [params.social]
+    twitter = "tomellosochess"
+    facebookName = "ajedrez.tomelloso"
