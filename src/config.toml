@@ -7,13 +7,13 @@ canonifyurls = true
 
 [params]
   description = "Nos gusta pensar."
-  cover = "images/img_articulo.png"
+  cover = "images/regional.jpg"
   coverStyle = false
   author = "Ajedrez Tomelloso"
   authorlocation = "Tomelloso, Castilla la Mancha"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
-  logo = "images/ESCUDO2.jpg"
+  logo = "images/escudoNuevo.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
