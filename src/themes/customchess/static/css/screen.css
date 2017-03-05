@@ -483,6 +483,7 @@ margin on the iframe, cause it breaks stuff. */
 /* Wraps the main content & footer */
 .site-wrapper {
     position: relative;
+    margin-top: 80px;
     z-index: 10;
     min-height: 100%;
     background: #fff;
@@ -892,9 +893,9 @@ body.nav-opened .menu-button .word {
 
 .no-cover.main-header {
     min-height: 160px;
-    max-height: 40vh;
-    background: #f5f8fa;
-    background-position: center;
+    max-height: 60vh;
+    background-position-x: center;
+    background-position-y: top;
     background-size: cover;
 }
 
