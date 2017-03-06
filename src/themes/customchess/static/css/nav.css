@@ -23,7 +23,7 @@
 
 .top-header .content .logo img.logo-tomelloso  {
     width: 100%;
-    max-width: 150px;
+    max-width: 175px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -98,14 +98,3 @@
     color: #185689;
     text-decoration: none;
 }
-
-
-/*@media (max-width: 600px) {
-  .top-header {
-    display: none;
-  }
-
-  .site-wrapper{
-      margin-top: 0px;
-  }
-}*/
