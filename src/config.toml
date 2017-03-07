@@ -12,8 +12,8 @@ tags = ["blog"]
   coverStyle = false
   author = "Ajedrez Tomelloso"
   authorlocation = "Tomelloso, Castilla la Mancha"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  authorwebsite = "http://www.ajedreztomelloso.com"
+  bio= "Nos gusta pensar"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
