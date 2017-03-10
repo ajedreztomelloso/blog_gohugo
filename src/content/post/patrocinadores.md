@@ -1,32 +1,139 @@
 +++
-menu = "main"
-date = "2017-02-03T00:41:15+01:00"
-title = "DeporteBase 3ºJornada"
+date = "2017-03-03T00:41:15+01:00"
+title = "PATROCINADORES CLUB AJEDREZ TOMELLOSO"
 draft = false
-image = "/images/dbase2901.jpg"
+image = "/images/patrocinadores/Exhibicion2222.jpg"
 +++
 
 
+|Patrocinadores|
+|:--:|
+|[**Autoescuela Paraiso**](https://www.facebook.com/Para%C3%ADso-Vial-Autoescuela-321899738172355/)|
+|![Autoescuela_Paraiso](/images/patrocinadores/AutoescuelaParaiso.jpg) Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. |
+|[**Manchegos Dental**](http://manchegosprotesisdental.es/)|
+|![Manchegos_Dental](/images/patrocinadores/ManchegosDental.png) Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. |
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
+
+
+[**Tirado Ramirez Menchen Abogados**](#)
+
+![Tirado_Ramirez_Menchen_Abogados](/images/patrocinadores/TiradoRamirezMenchen.jpg)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
+
+[**Teccon Lahoz**](http://www.tecconlahoz.es/)
+
+![Teccon_Lahoz](/images/patrocinadores/TecconLahoz.jpg)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
+
+
+[**Marquinetti**](http://marquinetti.com/)
+
+![Marquinetti](/images/patrocinadores/Marquinetti.jpg)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
 
 
 
+[**Logopedia y Foniatría Esther Bello**](#)
+
+![Logopedia_EstherBello](/images/patrocinadores/LogopediaEstherBello.jpg)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
 
 
-**Club Ajedrez Tomelloso, con muchas posibilidades en el Campeonato Deporte Base**
+
+[**Global Asesores**](#)
+
+![Global_Asesores](/images/patrocinadores/GlobalAsesores.jpg)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
+
+[**Mondema Artesanos**](http://mondemaartesanos.es/)
+
+![Mondema_Artesanos](/images/patrocinadores/MondemaArtesanos.png)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
 
 
 
-El domingo 29 enero daba comienzo la tercera jornada del Campeonato Provincial Deporte Base en Miguelturra, lugar donde se concentran los mejores jugadores de Ciudad Real a nivel base.
-Con una representación de 33 jugadores, el Club Ajedrez Tomelloso contaba con la expedición más numerosa de la provincia.
-Tomelloso lidera en solitario el campeonato por equipos, **Tomelloso (23,5 puntos)** seguido de Alcázar de San Juan (19 puntos) y Ciudad Real (18,5 puntos).
-Comenzamos la mañana con un calentamiento entre motores, nuestros jugadores amenizaban su camino en el autobús jugando al Mario Kart. 
+[**Flores Alba**](#) 
 
-![partida](/images/cadete2901.jpg)
+![Flores_Alba](/images/.jpg)
 
-En la categoría cadete, cabe destacar la actuación de ***Santiago Benito*** con una puntuación de 4,5 sobre los 5 posibles,  confirmando así su clasificación a falta de una ronda para la fase regional Deporte Base. Santi se impuso al fuerte jugador de la cantera de Zuzgwang, Martín Torres. Partida que obtuvo la ventaja desde la apertura, doblando peones en el enroque y consiguiendo ventaja material con un ataque doble. En la segunda partida Santiago Benito se enfrentó a Julio Mérida, jugador alcazareño invicto hasta el momento. El jugador de blancas ganó la columna central y con la fuerza de la dama y la torre en la séptima fila consiguió ponerse líder en solitario. Raúl Moreno con tres puntos depende de sí mismo en la última ronda del campeonato poder acompañar a Santiago en el campeonato regional. En esta categoría cadete también está representada por el club tomellosero por Emilio José Mena (3 puntos) y José Perales (2 puntos).
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
 
-![partida](/images/infantil2901.jpg)
+[**Deportes Cronos Tomelloso**](http://www.cronostomelloso.com/)
 
-En la categoría infantil, el tomellosero ***Jorge Rodrigo*** es el único jugador que cuenta sus partidas con victorias, tras imponerse a la joven promesa de la escuela de Valdepeñas Santiago David, jugador que dará mucho que hablar en el futuro. Una partida que se decidió por un sacrificio erróneo de jugador valdepeñero. En la persecución de Jorge se encuentran siete jugadores con 5 puntos dos de ellos tomelloseros; Álvaro Ramírez y Raúl Navarro, con muchas de posibilidades de conseguir un puesto entre las tres primeras plazas. En la clasificación femenina infantil lidera Nuria Lozano de la escuela de Alcázar de San Juan, seguida de nuestra jugadora Marta Jiménez a tan sólo un punto de su rival.
-Con 4 puntos de los 6 posibles se encuentran Jesús Redondo que salvó la partida de manera precisa contra Clara Vela, Juan Jiménez y Álvaro Navarro, dos debutantes en este torneo jugando a un buen nivel, Miguel Castro con la ausencia del primera día ha conseguido 4 puntos de 4 posibles y Pablo García de la Dueña destacar que es su primer año en la escuela y ya se encuentra entre los veinte mejores de la provincia a nivel infantil. 
-El próximo domingo nos espera la última jornada. Una lástima que la organización no sea capaz de publicar los próximos emparejamientos ya que actualmente en todos los campeonatos de ajedrez se hace por regla. Esto enriquecería la calidad de las partidas en el campeonato.
+![Deportes_Cronos](/images/patrocinadores/cronos.jpg)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
+
+
+
+[**Zarco Daza Abogados**](#)
+
+![ZarcoDaza Abogados](/images/patrocinadores/zarcodaza.png)
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
+arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
+enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. 
+
