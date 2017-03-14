@@ -2062,3 +2062,7 @@ body:not(.post-template) .post-title {
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
    ========================================================================== */
+
+article section table img {
+    max-height: 155px;
+}
