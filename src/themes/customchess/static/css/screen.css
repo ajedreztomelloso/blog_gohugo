@@ -405,7 +405,7 @@ table td {
     padding: 8px;
     line-height: 20px;
     text-align: left;
-    vertical-align: top;
+    vertical-align: medium;
     border-top: #EFEFEF 1px solid;
 }
 
@@ -1352,7 +1352,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 /* The main wrapper for our pagination links */
-.pagination {
+.custom-pagination {
     position: relative;
     width: 80%;
     max-width: 710px;
@@ -1363,7 +1363,7 @@ body:not(.post-template) .post-title {
     text-align: center;
 }
 
-.pagination a {
+.custom-pagination a {
     color: #9EABB3;
     transition: all 0.2s ease;
 }

@@ -106,3 +106,17 @@
     color: #185689;
     text-decoration: none;
 }
+
+.top-header .top-actions i{
+    font-size: 24px;
+}
+
+@media (max-width: 500px) {
+    .top-header {
+        position: relative;            
+    }
+
+    .site-wrapper {
+        margin-top: -5px !important;
+    }
+}

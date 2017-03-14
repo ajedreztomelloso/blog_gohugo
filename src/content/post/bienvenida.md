@@ -1,6 +1,6 @@
 +++
 date = "2017-03-06T00:41:15+01:00"
-title = "BIENVENIDOS A LA NUEVA WEB"
+title = "Bienvenidos a la nueva Web"
 draft = false
 tags = ["educacion", "historia"]
 image = "/images/bienvenida/clubajedrez.jpg"

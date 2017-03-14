@@ -32,27 +32,55 @@ footer .footer-down {
     background-image: url(/images/page/piezas.jpeg);
 }
 
-.poweredby {
-    display: block;
-    color: white;
-    font-weight: bolder;
-    width: 40%;
-    background-color: rgba(0,0,0,0.5);
-    margin-right: 2%;
-    padding-right: 3%;
-    margin-top: 50px;
-    float: right;
-    text-align: right;
-}
-
 .copyright {
     display: block;
     color: white;
     font-weight: bolder;
-    width: 40%;
+    width: 60%;
     background-color: rgba(0,0,0,0.5);
     margin-left: 2%;
     padding-left: 3%;
-    margin-top: 50px;
+    margin-top: 30px;
     float: left;
 }
+
+footer .social-buttons {
+    color: #ffffff;
+    background: #DF392E;
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    font-size: 18px;
+    margin: 5px 5px;
+    padding: 6px;
+    text-align: center;
+}
+
+footer .twitter {
+    background-color: #55ACEE;
+}
+
+footer .facebook {
+    background-color: #45619D;
+}
+
+footer .instagram {
+    background-color: #D5402B;
+}
+
+footer .instagram {
+    background-color: #FF6600;
+}
+
+@media (max-width: 500px) {
+    footer .footer-down {
+        height: 150px;  
+    }
+
+    .copyright {
+        width: 90%;
+    }
+}
+
