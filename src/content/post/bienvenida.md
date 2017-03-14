@@ -8,7 +8,7 @@ image = "/images/bienvenida/clubajedrez.jpg"
 
 > "Al bien hacer jamás le falta premio" Don Quijote de la Mancha.
 
-![juancarlos](/images/bienvenida/juacarlos.JPG)
+![juancarlos](/images/bienvenida/juacarlos.jpg)
 
 Como cuentan las crónicas **"Corría el año 2000, cuando Juan Carlos Domínguez, profesor de Matemáticas, fuerte jugador de ajedrez y recién llegado a Tomelloso, comienza a impartir clases del juego-ciencia a chavales de esta localidad de una manera más o menos metódica**. Así nació este club o mejor dicho su nueva etapa en el correr de los tiempos.
 
@@ -34,9 +34,14 @@ Nuestro club se hizo un poco mayor hace un par de años cuando el primer docente
 
 Ahora ya en plena adolescencia, este club, **enamorado perdidamente de la educación**, a las ordenes de su actual presidente Eduardo López, pasea por las aulas de varios de nuestros colegios proyectando en sus pizarras digitales la creatividad, la inteligencia, la buena toma de decisiones de nuestro bello deporte.
 
-En los últimos 5 años, 5 ajedrecistas tomelloseros han sido campeones regionales de Castilla la Mancha en la categoría sub-8. Pedro Javier González (Almansa 2012), Marta Jiménez (Tomelloso 2013), Adriana Domínguez (Horche 2015) y Beatríz Jiménez con Manuel Soto hicieron doblete (Albacete 2016).
-
 ![escuela](/images/bienvenida/escuela.jpg)
+
+
+Estamos creciendo mucho en esta juventud del club. En los últimos 5 años, 5 ajedrecistas tomelloseros han sido campeones regionales de Castilla la Mancha en la categoría sub-8. Pedro Javier González (Almansa 2012), Marta Jiménez (Tomelloso 2013), Adriana Domínguez (Horche 2015) y Beatríz Jiménez con Manuel Soto hicieron doblete (Albacete 2016).
+
+En el año 2014 el colegio Cervantes participó en el campeonato de Colegios de España quedando en una excelente quinta posición. El cuadro estuvo formado por Carlos Rodrigo Diaz-Ropero, Pedro Javier Gonzalez García, Alvaro Ramirez Aguado y Jorge Rodrigo Diaz-Ropero, con un monitor que la enseñanza a los pequeños es su pasión: Ángel Luis López Barrios.
+
+![colegios](/images/bienvenida/colegio_cervantes.JPG)
 
 Lo que suceda a partir de ahora **ni lo cuentan las crónicas ni lo contaré yo**. Tenemos nuevos patrocinadores, nuevo y precioso escudo, nueva web -desde la que aprovecho para dar la bienvenida a todos los visitantes- y sobre todo tenemos muchas ganas de seguir aumentando la grandeza de este club, de sus colaboradores, monitores, jugadores, alumnos de la escuela, padres, con la esperanza de que muy pronto podamos cumplir satisfechos la mayoría de edad.
 

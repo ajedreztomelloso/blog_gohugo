@@ -45,16 +45,16 @@
 <main class="content" role="main">
     {{ $paginator := .Paginator }}
 
-	<div class="extra-pagination inner">
+<!--	<div class="extra-pagination inner">
     {{ partial "pagination.html" $paginator }}
-	</div>
+	</div>-->
 
-	{{ range $index, $page := $paginator.Pages }}
+<!--	{{ range $index, $page := $paginator.Pages }}
 	   {{ partial "li.html" . }}
 	{{ end }}
-
-	{{ partial "pagination.html" $paginator }}
-</main>
+-->
+<!--	{{ partial "pagination.html" $paginator }}
+--></main>
 
 
 

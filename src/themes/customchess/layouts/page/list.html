@@ -43,15 +43,15 @@
 </header>
 
 <main class="content" role="main">
-    {{ $paginator := .Paginator }}
+<!--    {{ $paginator := .Paginator }}
 
 	<div class="extra-pagination inner">
     {{ partial "pagination.html" $paginator }}
-	</div>
+	</div>-->
 
-	{{ range $index, $page := $paginator.Pages }}
+<!--	{{ range $index, $page := $paginator.Pages }}
 	   {{ partial "li.html" . }}
-	{{ end }}
+	{{ end }}-->
 
 	{{ partial "pagination.html" $paginator }}
 </main>

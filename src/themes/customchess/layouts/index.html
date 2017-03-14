@@ -82,9 +82,20 @@
         {{ partial "pagination.html" $paginator }}
     </div>
 
+    <div id="articles" class="row post-flex">
+        {{ range $index, $page := $paginator.Pages }}
+            {{ partial "li.html" . }}
+        {{ end }}
+    </div>
+
+<!--    <div id="articles" class="row post-flex">
     {{ range $index, $page := $paginator.Pages }}
-        {{ partial "li.html" . }}
+        <li>
+            {{.Title}}
+        </li>
+            
     {{ end }}
+    </div>-->
 
     {{ partial "pagination.html" $paginator }}
 
