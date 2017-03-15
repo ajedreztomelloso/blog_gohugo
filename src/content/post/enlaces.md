@@ -1,7 +1,7 @@
 +++
 date = "2017-08-03T00:41:15+01:00"
 title = "Enlaces de Interés"
-draft = true
+draft = false
 image = "./images/enlaces/posicioninicial.jpeg"
 url = "/enlaces-de-interes"
 menu = "main"

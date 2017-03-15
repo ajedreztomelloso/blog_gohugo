@@ -1,7 +1,7 @@
 +++
 date = "2017-03-04T00:41:15+01:00"
 title = "Peón P'alante"
-draft = false
+draft = true
 tags = ["educacion", "padres"]
 image = "/images/peonpalante/alvaro.jpg"
 +++
