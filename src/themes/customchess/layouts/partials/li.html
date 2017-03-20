@@ -3,9 +3,15 @@
     <header class="post-header">
         <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     </header>
+    {{if .Params.description}}
+    <section class="post-excerpt">
+        <p>{{ .Params.description }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
+    </section>
+    {{else if .Summary}}
     <section class="post-excerpt">
         <p>{{ .Summary }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
     </section>
+    {{end}}
     <footer class="post-meta">
         {{$author:= .Site.Params.author}}
         {{if .Params.author }}

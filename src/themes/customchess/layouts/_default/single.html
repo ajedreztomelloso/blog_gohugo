@@ -41,6 +41,11 @@
     </header>
 
     <section class="post-content">
+      {{if .Params.quote}}
+        <blockquote>
+          <p>{{.Params.quote}}</p>
+        </blockquote>
+      {{end}}
       {{ .Content }}
     </section>
 

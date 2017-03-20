@@ -1,7 +1,7 @@
 +++
 date = "2017-01-19T00:41:15+01:00"
 title = "VII Interescolar"
-draft = false
+draft = true
 image = "/images/cabecera1.jpg"
 tags = ["escolar", "base"]
 +++

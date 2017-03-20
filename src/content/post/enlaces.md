@@ -1,10 +1,12 @@
 +++
-date = "2017-08-03T00:41:15+01:00"
+date = "2017-03-19"
 title = "Enlaces de Interés"
 draft = false
 image = "./images/enlaces/posicioninicial.jpeg"
 url = "/enlaces-de-interes"
 menu = "main"
+tags = ["enlaces"]
+description = "Enlaces a las diferentes federaciones, delegaciones, clubes y páginas de interés de Tomelloso."
 +++
 
 ### Federaciones
@@ -31,9 +33,12 @@ menu = "main"
 | ![NA EUROPA](/images/enlaces/NAEUROPA.jpg)  | Club de Ajedrez Nuestro Ajedrez en Europa | [NUESTRO AJEDREZ EUROPA](http://www.nuestroajedrezeneuropa.com)|
 | ![NA EUROPA](/images/enlaces/BARGAS.JPG)  | Club de Ajedrez Bargas Soliss | [AJEDREZ BARGAS](http://http://ajedrezbargas.blogspot.com.es/)|
 
+### Tomelloso
 
-
-
+| Logo     | Descripción | Enlace |
+| :------- | :----------:| :-----:|
+| ![Ayuntamiento de Tomelloso](/images/enlaces/ayuntamiento.jpg)  | Ayuntamiento de Tomelloso   | [Ayuntamiento de Tomelloso](http://www.tomelloso.es/)   |
+| ![En Tomelloso](/images/enlaces/entomelloso.png)  | En Tomelloso    | [En Tomelloso](http://entomelloso.com/) |
 
 
 

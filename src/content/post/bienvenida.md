@@ -1,12 +1,11 @@
 +++
-date = "2017-03-06T00:41:15+01:00"
+date = "2017-03-20"
 title = "Bienvenidos a la nueva Web"
-draft = true
+draft = false
 tags = ["educacion", "historia"]
 image = "/images/bienvenida/clubajedrez.jpg"
+quote = "\"Al bien hacer jamás le falta premio\" Don Quijote de la Mancha."
 +++
-
-> "Al bien hacer jamás le falta premio" Don Quijote de la Mancha.
 
 ![juancarlos](/images/bienvenida/juacarlos.jpg)
 
@@ -48,3 +47,5 @@ Lo que suceda a partir de ahora **ni lo cuentan las crónicas ni lo contaré yo*
 ![club](/images/bienvenida/clubajedrez.jpg)
 
 ¿Y tú? ¿Te animas a seguir haciendo historia con nosotros?
+
+[http://www.ajedreztomelloso.com](http://www.ajedreztomelloso.com)
