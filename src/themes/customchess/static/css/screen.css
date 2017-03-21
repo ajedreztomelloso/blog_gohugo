@@ -480,6 +480,10 @@ margin on the iframe, cause it breaks stuff. */
     vertical-align: middle;
 }
 
+.text-center{
+    text-align: center;
+}
+
 /* Wraps the main content & footer */
 .site-wrapper {
     position: relative;
