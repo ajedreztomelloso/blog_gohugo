@@ -107,11 +107,11 @@ table { border-collapse: collapse; border-spacing: 0; }
 /* Import the font file with the icons in it */
 @font-face {
   font-family: 'genericons';
-  src: url('../fonts/Genericons.eot');
-  src: url('../fonts/Genericons.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/Genericons.woff') format('woff'),
-       url('../fonts/Genericons.ttf') format('truetype'),
-       url('../fonts/Genericons.svg#entypo') format('svg');
+  src: url('/fonts/Genericons.eot');
+  src: url('/fonts/Genericons.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/Genericons.woff') format('woff'),
+       url('/fonts/Genericons.ttf') format('truetype'),
+       url('/fonts/Genericons.svg#entypo') format('svg');
   font-weight: normal; font-style: normal;
 }
 
@@ -480,7 +480,7 @@ margin on the iframe, cause it breaks stuff. */
     vertical-align: middle;
 }
 
-.text-center{
+.text-center {
     text-align: center;
 }
 
