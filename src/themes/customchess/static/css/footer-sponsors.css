@@ -28,6 +28,15 @@ footer .sponsors .patrocinadores img {
     opacity: 0.5;
 }
 
+footer .sponsors .patrocinadores img:hover {
+    filter: none;
+    -webkit-filter: none;
+    -moz-filter: none;
+    -ms-filter: none;
+    -o-filter: none;
+    opacity: 1;
+}
+
 footer .footer-down {
     height: 110px;
     background-image: url(/images/page/piezas.jpeg);

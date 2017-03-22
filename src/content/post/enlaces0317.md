@@ -1,9 +1,10 @@
 +++
 date = "2017-03-24"
 title = "Enlaces del Mes de Marzo"
-draft = true
+draft = false
 tags = ["enlaces"]
 image = "/images/enlaces0317/portada.jpg"
+description = "Enlaces interesantes del mes de Marzo de 2017."
 +++
 
 # Ajedrez en las escuelas
@@ -14,6 +15,7 @@ image = "/images/enlaces0317/portada.jpg"
 |[Cinco ideas para dar clases a niños](http://capakhine.es/index.php/blog-capakhine/219-clases-ajedrez-ninos)|Capakhine nos cuenta ideas para dar clases a niños.|
 |[Poema de Alberto](https://www.facebook.com/chess24.es/posts/721123008069385:0)|Poema de Alberto para chess24, alumno de 8 años de la escuela Ajedrez Metro Club de Marbella.|
 |[Peón P'alante](http://www.ajedreztomelloso.com/post/peonpalante/)|Artículo de Paco Ramírez para el blog del club.|
+|[El ajedrez nutre la educación innovadora](http://deportes.elpais.com/deportes/2017/03/22/la_bitacora_de_leontxo/1490179217_496640.html?id_externo_rsoc=TW_CC)|La bitácora de Leontxo siempre es de lectura obligatoria. Esta vez sobre la educación.|
 
 # Ajedrez en la red
 
@@ -22,6 +24,9 @@ image = "/images/enlaces0317/portada.jpg"
 |[Encuesta de Illescas en twitter](https://www.facebook.com/GM.ILLESCAS/photos/a.453029181461086.1073741825.241810865916253/1168983403198990/?type=3&theater)|Encuesta sobre la siciliana realizada por Miguel Illescas en twitter.|
 |[Máquina vs Humano](https://www.facebook.com/chessmagazineofficial/videos/1363809960295667/)|¡Un robot juega contra Kramnik!|
 |[Ajedrez blitz puro](https://twitter.com/OlimpiuUrcan/status/815213373902049280)|Nakamura juega contra Grischuk en el campeonato del mundo de blitz, puro espectáculo.|
+|[Historias de Victor "El Terrible"](http://chess-teacher.es/historias-victor-terrible/)|Artículo sobre Viktor Korchnoi por parte de la página [chess-teacher.com](http://chess-teacher.es/)|
+|[Que hacer cuando no sabes que hacer](https://www.chess.com/es/article/view/que-hacer-cuando-no-sabes-que-hacer)|Luis Fernández Siles nos cuenta un par de consejos para esas posiciones en las que no sabemos que hacer.|
+|[Karjakin y la publicidad](http://es.chessbase.com/post/karjakin-en-la-publicidad?utm_source=dlvr.it&utm_medium=twitter)|Noticia sobre los patrocinadores de Sergei Karjakin por Chessbase España.|
 
 # Ajedrez en Castilla la Mancha
 
@@ -32,7 +37,7 @@ image = "/images/enlaces0317/portada.jpg"
 |[Provinciales sub de Albacete](http://www.ajedrezparquesuralbacete.es/provincial_por_edades_2017.htm)|Provincial sub de Albacete, crónica del club Parque Sur.|
 |[Campeonato Provincial Escolar en Cuenca](http://www.ajedrezcuenca.es/campeonatos/escolar/2017.htm)|Campeonato Provincial Escolar en Cuenca, crónica de la Delegación Provincial de Cuenca.|
 |[Provincial Absoluto Toledo](http://ajedreztoledo.blogspot.com.es/2017/03/el-campeonato-provincial-individual-de.html)|Campeonato Provincial Absoluto de Toledo, crónica de la Delegación de Toledo|
-|[Provincial sub Ciudad Real]()|Provincial sub de Ciudad Real, crónica del Club Ajedrez Tomelloso|
+|[Provincial sub Ciudad Real](http://www.ajedreztomelloso.com/post/sub20171jorn)|Provincial sub de Ciudad Real, crónica del Club Ajedrez Tomelloso|
 |[Nueva página del Club Ajedrez Tomelloso](http://www.ajedreztomelloso.com/post/bienvenida/)|Nueva página del Club Ajedrez Tomelloso|
 
 # Próximos Torneos
