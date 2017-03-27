@@ -1,7 +1,29 @@
 {{ partial "header.html" . }}
 
+<!--<div class="videodiv jumbotron">
+    <div class="blog-title">
+        <div>
+            <a class="bloglogo" href="https://www.facebook.com/{{ .Site.Params.facebookName }}" target="_blank">
+                <span class="icon-facebook" style="color:white;font-size:2em"></span>
+            </a>
+            <a class="bloglogo" href="https://twitter.com/{{ .Site.Params.twitterName }}" target="_blank">
+                <span class="icon-twitter" style="color:white;font-size:2em"></span>
+            </a>            
+            <a class="bloglogo" href="https://instagram.com/{{ .Site.Params.instagramName }}" target="_blank">
+                <span class="icon-instagram" style="color:white;font-size:2em"></span>
+            </a>
+        </div>
+        <h1>
+            Nos gusta Pensar
+        </h1>
+        <p>Ajedrez Tomelloso</p>
+    </div>
+    <video playsinline autoplay muted loop>
+        <source src="/videos/alvarojorge.mp4" type="video/mp4">
+    </video>
+</div>-->
+
 <header class="main-header no-cover" style="background-image: url({{.Site.BaseURL}}{{.Site.Params.cover}})">
-    
     <div class="vertical">
         <div class="main-header-content inner">
             {{ if .Site.Params.linkedinName }}
