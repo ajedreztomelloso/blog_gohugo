@@ -22,7 +22,7 @@
 
     });
 
-    $document.ready(function () {
+/*    $document.ready(function () {
         var seconds = new Date().getTime() / 1000;
         var value = Math.trunc(seconds);
         var selected = value % 4;
@@ -31,7 +31,7 @@
 
         $("video source").attr('src', "/videos/" + videos[selected]);
         $("video")[0].load();
-    });
+    });*/
 
     // Arctic Scroll by Paul Adam Davis
     // https://github.com/PaulAdamDavis/Arctic-Scroll

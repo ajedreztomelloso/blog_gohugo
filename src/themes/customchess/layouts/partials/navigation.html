@@ -1,30 +1,37 @@
 <header class="top-header">
     <nav class="nav-shadow">
+        <div class="row logo-header-xs content">
+            <div class="logo logo-xs" style="float: right">
+                <img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" class="logo-tomelloso" />
+            </div>
+        </div>
         <div class="row">
             <div class="content">
-                <div class="col-xs-8 col-md-4 hidden-sm">
+                <div class="col-xs-8 col-md-4 col-actions">
                     <div class="top-actions">
-                        <ul class="hidden-xs">
+                        <ul class="big-links">
                             <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/patrocinadores">Patrocinadores</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/enlaces-de-interes">Enlaces</a></li>
+                            <li><a href="{{ .Site.BaseURL }}post/bienvenida">Bienvenida</a></li>
+                            <li><a href="{{ .Site.BaseURL }}patrocinadores">Patrocinadores</a></li>
+                            <li><a href="{{ .Site.BaseURL }}enlaces-de-interes">Enlaces</a></li>
                         </ul>
-                        <ul class="hidden-md hidden-sm hidden-lg" style="font-size: 24px;">
-                            <li><a href="{{ .Site.BaseURL }}"><i class="fa fa-home"></i></a></li>
-                            <li><a href="{{ .Site.BaseURL }}/patrocinadores"><i class="fa fa-handshake-o"></i></a></li>
-                            <li><a href="{{ .Site.BaseURL }}/enlaces-de-interes"><i class="fa fa-link"></i></a></li>
+                        <ul class="small-links">
+                            <li><a href="{{ .Site.BaseURL }}" title="Home"><i class="fa fa-home"></i></a></li>
+                            <li><a href="{{ .Site.BaseURL }}post/bienvenida" title="Bienvenida"><i class="fa fa-hand-spock-o" ></i></a></li>
+                            <li><a href="{{ .Site.BaseURL }}/patrocinadores" title="Patrocinadores"><i class="fa fa-handshake-o"></i></a></li>
+                            <li><a href="{{ .Site.BaseURL }}/enlaces-de-interes" title="Enlaces de Interés"><i class="fa fa-link"></i></a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-sm-4 hidden-lg hidden-md">
 
                 </div>
-                <div class="col-xs-4 col-sm-4 col-md-4 logo text-center">
+                <div class="col-xs-4 col-sm-4 col-md-4 logo text-center logo-big">
                     <a href="{{ .Site.BaseURL }}">
                         <img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" class="logo-tomelloso" />
                     </a>
                 </div>
-                <div class="col-xs-6 col-md-4 col-sm-4 hidden-xs">
+                <div class="col-xs-6 col-md-4 col-sm-4 sponsors-slider">
                     <div class="patrocinadores" id="manchegosdental">
                         <a href="http://manchegosprotesisdental.es/" target="_blank" >
                             <img id="imgPatrocinador" src="{{.Site.BaseURL}}/images/patrocinadores/ManchegosDental.png" class="right" />

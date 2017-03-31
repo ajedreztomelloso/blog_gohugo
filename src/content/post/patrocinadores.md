@@ -20,7 +20,7 @@ tags = ["patrocinadores"]
 |[**Flores Alba**](https://11870.com/pro/flores-alba-1) |
 |[![Flores_Alba](/images/patrocinadores/FloresAlba.jpg)](https://11870.com/pro/flores-alba-1) |
 |[**Global Asesores**](http://www.globalasesores2012.es/) |
-| [![Global_Asesores](/images/patrocinadores/GlobalAsesores.jpg)](http://www.globalasesores2012.es/) </br> Pasadizo de Toledo, 9 Primera planta </br> Tomelloso </br> Telf. 926 970 996 </br> <administracion@globalasesores2012.es> |
+| [![Global_Asesores](/images/patrocinadores/GlobalAsesores.jpg)](http://www.globalasesores2012.es/) </br> Pasadizo de Toledo, 9 Primera planta </br> Tomelloso </br> Telf. [926 970 996]({{< ref "tel:+34926970996" >}}) </br> <administracion@globalasesores2012.es> |
 |[**Logopedia y Foniatría Esther Bello**](http://www.citiservi.es/ciudad-real/esther-bello-gonzalez-tomelloso__2662995_477.html) |
 |[![Logopedia_EstherBello](/images/patrocinadores/LogopediaEstherBello.jpg)](http://www.citiservi.es/ciudad-real/esther-bello-gonzalez-tomelloso__2662995_477.html) |
 |[**Manchegos Dental**](http://manchegosprotesisdental.es/)|
@@ -32,6 +32,6 @@ tags = ["patrocinadores"]
 |[**Teccon Lahoz**](http://www.tecconlahoz.es/) <div id="tiradomenchenabogados"></div> |
 |[![Teccon_Lahoz](/images/patrocinadores/TecconLahoz.jpg)](http://www.tecconlahoz.es/) |
 |[**Tirado Ramirez Menchen Abogados**](#tiradomenchenabogados)|
-|[![Tirado_Ramirez_Menchen_Abogados](/images/patrocinadores/TiradoRamirezMenchen.jpg)](#tiradomenchenabogados) </br> C/ Alarcón, nº 5, local. </br> 13.700 - Tomelloso (C. Real). </br> Telf y fax: 926510729 - 926504790. |
+|[![Tirado_Ramirez_Menchen_Abogados](/images/patrocinadores/TiradoRamirezMenchen.jpg)](#tiradomenchenabogados) </br> C/ Alarcón, nº 5, local. </br> 13.700 - Tomelloso (C. Real). </br> Telf y fax: [926 510 729]({{< ref "tel:+34926510729" >}}) - [926 504 790]({{< ref "tel:+34926504790" >}}). |
 | [**Zarco Daza Abogados**](http://www.citiservi.es/ciudad-real/pilar-zarco-daza-tomelloso__2760012_477.html) |
 [![ZarcoDaza Abogados](/images/patrocinadores/zarcodaza.png)](http://www.citiservi.es/ciudad-real/pilar-zarco-daza-tomelloso__2760012_477.html) |
