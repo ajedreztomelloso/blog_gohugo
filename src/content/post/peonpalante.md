@@ -2,7 +2,7 @@
 date = "2017-03-21"
 title = "Peón P'alante"
 draft = false
-tags = ["educacion", "padres"]
+tags = ["educacion", "padres", "relato"]
 image = "/images/peonpalante/alvaro.jpg"
 +++
 

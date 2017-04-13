@@ -49,3 +49,12 @@
     transition: all .4s linear 0s;
     background: transparent;
 }
+
+.post pre {
+    word-break: normal !important;
+    word-wrap: break-word !important;
+}
+
+.post code {
+    white-space: normal !important;
+}
