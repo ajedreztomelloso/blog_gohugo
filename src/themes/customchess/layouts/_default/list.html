@@ -1,0 +1,34 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+
+
+<header class="main-header no-cover" style="background-image: url({{.Site.BaseURL}}{{.Site.Params.cover}})">
+    <div class="vertical">
+        <div class="main-header-custom">
+            <h1 class="page-title">Páginas con Etiqueta: {{.Title}}</h1>
+            <h2 class="page-description">
+                {{if .Params.description}}
+                    {{.Params.description}}
+                {{end}}
+            </h2>
+        </div>
+    </div>
+</header>
+
+<main class="content" role="main">
+    {{ $paginator := .Paginator }}
+
+    <div class="extra-pagination inner">
+        {{ partial "pagination.html" $paginator }}
+    </div>
+
+    {{ range $index, $page := $paginator.Pages }}
+        {{ partial "li.html" . }}
+    {{ end }}
+
+    {{ partial "pagination.html" $paginator }}
+</main>
+
+
+
+{{ partial "footer.html" . }}
