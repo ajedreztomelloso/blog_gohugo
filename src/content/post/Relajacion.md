@@ -2,7 +2,7 @@
 date = "2017-04-18"
 title = "El ajedrez y sus estados mentales"
 draft = true
-tags = [ "articulo" ]
+tags = [ "articulo", "carlosgarcia" ]
 image = "/images/articulocarlos/afinatuguitarra.jpg"
 quote = "\"El ajedrez es, sencillamente, un medio con el que se consigue la concentración y un estado mental más elevado. Es como mirarse el ombligo, sólo que mejor.\" GM Jonathan Speelman."
 +++
@@ -48,10 +48,12 @@ Básicamente, esto quiere decir que es recomendable una inspección de sus propi
 ![afina tu guitarra](/images/articulocarlos/afinatuguitarra.jpg)
 
 #### Controle sus mariposas del estómago 
-Los nervios antes de la partida son positivos, siempre que estén controlados. Para ello, siempre es bueno recordar que "__la partida que va a jugar es importante, que hay__" (esperemos) __cosas más importantes en la vida y que_ (esperemos) __seguirán estando en su sitio cuando haya terminado__".
+Los nervios antes de la partida son positivos, siempre que estén controlados. Para ello, siempre es bueno recordar que "__la partida que va a jugar es importante, que hay__" (esperemos) __cosas más importantes en la vida y que__ (esperemos) __seguirán estando en su sitio cuando haya terminado__".
 
 #### Disfruta la partida, no solamente la victoria
 
 "__Es esencial disfrutar jugando tanto como ganando__. Si realmente te gusta jugar, ganar forma parte de ese placer y no puede haber nada más natural que buscarlo. Pero si lo único que quiere es ganar, la partida y las decisiones que deberá tomar pueden convertirse en un fardo muy pesado, que le dificultará mucho más la victoria". Así pues, si solamente piensas en ganar antes de la partida, y no en disfrutar de la misma, recuérdate a ti mismo por qué te gusta el ajedrez, y la felicidad que consigues practicándolo. Como decía un excampeón del mundo:
 
 > "En general, creo que si lo que quieres es jugar y disfrutar de la partida, las cosas suelen salir bien". GM Viswanathan Anand.
+
+Carlos García Moreno
