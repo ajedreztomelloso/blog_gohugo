@@ -1,0 +1,182 @@
+.nav-shadow {
+    height: 75px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+      width: 100% !important;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.nav-shadow div {
+    max-height: 80px;
+}
+
+.top-header {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    height: 80px;
+    width: 100%;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
+    z-index: 12;
+    background-color: #e7e7e7;
+}
+
+.top-header .container { 
+  width: 100% !important;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.top-header .content .logo .logo-tomelloso {
+    padding: 0px;
+    background-color: transparent;
+    z-index: 20;
+}
+
+.top-header .content .logo img.logo-tomelloso  {
+    width: 100%;
+    max-width: 175px;
+    /*display: block;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-header .logo-header-xs.content .logo-xs img.logo-tomelloso  {
+    width: 130px !important;
+}
+
+.top-header .content .patrocinadores {
+    display: none;
+    opacity: 0;
+    top: -10px;
+}
+
+.top-header .content .patrocinadores img {
+    float: right;
+    height: 65px;
+    margin-top: 5px;
+    padding-left: 5px;
+}
+
+.top-header .content .patrocinadores img.right {
+    float: right;
+}
+
+.top-header .content .patrocinadores img.left {
+    float: left;
+}
+
+.top-header .content .top-actions {
+    vertical-align: top;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.top-header .content .top-actions ul {
+    padding: 0;
+}
+
+.top-header .content .top-actions ul li {
+    display: inline;
+}
+
+.top-header .content .top-actions ul li a {
+    font-family: "Open Sans", Helvetica, Arial, "Liberation Sans", sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    color: #5F5959;
+    font-style: italic;
+    line-height: 50px;
+}
+
+.top-header .content .top-actions ul li a:hover {
+    transition-duration: 0.2s;
+    font-weight: 600;
+    text-decoration: underline;
+    line-height: 50px;
+    background-color: rgba(95, 89, 89, 0.15);
+}
+
+.top-header .content .top-actions ul li a:active {
+    text-decoration: underline;
+}
+
+.top-header .content .top-actions ul.submenu {
+    display: none;
+    float: none;
+    position: center;
+}
+
+.top-header.content.top-actions ul.submenu li a {
+    padding: 20px;
+    color: #185689;
+    text-decoration: none;
+}
+
+.top-header .top-actions i{
+    font-size: 24px;
+}
+
+.top-header .col{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.small-links{
+    display: none;
+    font-size: 24px;
+}
+
+.logo-header-xs{
+    display: none;
+}
+
+@media (max-width: 1100px) {
+    .small-links {
+        display: block !important;
+    }
+
+    .big-links {
+        display: none;
+    }
+
+    .sponsors-slider{
+        display: none;
+    }
+}
+
+@media (max-width: 500px) {
+    .top-header {
+        position: relative;            
+    }
+
+    .site-wrapper {
+        margin-top: -5px !important;
+    }
+
+    nav{
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        height: 150px !important;
+    }
+
+    .top-header{
+        height: 160px !important;
+    }
+
+    .col-actions {
+        width: 100% !important;
+    }
+
+    .logo-header-xs{
+        display: block;
+    }
+
+    .logo-big {
+        display: none;
+    }
+
+
+}

@@ -1,0 +1,70 @@
+.jumbotron {
+    padding: 0;
+}
+
+.videodiv {
+    width: 100%;
+    overflow: hidden;
+    height: 60vh;
+}
+
+.videodiv .blog-title {
+    font-family: "Bodoni MT";
+    margin: 0;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    top: 15em;
+    padding: 0 30px;
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+.videodiv .blog-title h1 {
+    font-size: 7vmin;
+    color: white;
+    margin-top: 2px;
+}
+
+.videodiv .blog-title a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+.videodiv .blog-title p {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    background-color: rgba(255,255,255,0.5);
+    font-size: 2vmin;
+    color: blue;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+
+.videodiv video {
+    object-fit: cover;
+    font-family: 'object-fit: cover;';
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+}
+
+.main-header{
+    display: none;
+}
+
+@media (max-width: 1000px) {
+    .main-header {
+        display: block;            
+    }
+
+    .videodiv.jumbotron {
+        display: none;
+    }
+}

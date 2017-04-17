@@ -1,0 +1,100 @@
+footer .sponsors {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #e7e7e7;
+    text-align: center;
+}
+
+footer .sponsors .patrocinadores {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: inline-block;
+}
+
+footer .sponsors .patrocinadores img {
+    border-radius: 25px;
+    height: 60px;
+    max-width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    opacity: 0.5;
+}
+
+footer .sponsors .patrocinadores img:hover {
+    filter: none;
+    -webkit-filter: none;
+    -moz-filter: none;
+    -ms-filter: none;
+    -o-filter: none;
+    opacity: 1;
+}
+
+footer .footer-down {
+    height: 110px;
+    background-image: url(/images/page/piezas.jpeg);
+}
+
+.copyright {
+    display: block;
+    color: white;
+    font-weight: bolder;
+    width: 60%;
+    background-color: rgba(0,0,0,0.5);
+    margin-left: 2%;
+    padding-left: 3%;
+    margin-top: 30px;
+    float: left;
+}
+
+footer .social-buttons {
+    color: #ffffff;
+    background: #DF392E;
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    font-size: 18px;
+    margin: 5px 5px;
+    padding: 6px;
+    text-align: center;
+}
+
+footer .twitter {
+    background-color: #55ACEE;
+}
+
+footer .facebook {
+    background-color: #45619D;
+}
+
+footer .instagram {
+    background-color: #D5402B;
+}
+
+footer .instagram {
+    background-color: #FF6600;
+}
+
+@media (max-width: 500px) {
+    footer .footer-down {
+        height: 150px;  
+    }
+
+    .patrocinadores {
+        width: 100% !important;
+    }
+
+    .copyright {
+        width: 90%;
+    }
+}
