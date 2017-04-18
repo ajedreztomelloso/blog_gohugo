@@ -2,7 +2,7 @@
 date = "2017-04-18"
 title = "El ajedrez y sus estados mentales"
 draft = false
-tags = [ "articulo", "carlosgarcia" ]
+tags = [ "articulo", "carlosgarcia", "2017"]
 image = "/images/articulocarlos/kasparov.jpg"
 quote = "\"El ajedrez es, sencillamente, un medio con el que se consigue la concentración y un estado mental más elevado. Es como mirarse el ombligo, sólo que mejor.\" GM Jonathan Speelman."
 +++

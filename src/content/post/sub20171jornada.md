@@ -2,7 +2,7 @@
 date = "2017-03-21"
 title = "Campeonato Provincial Sub 2017: Jornada I"
 draft = false
-tags = ["sub", "provincial", "provincialEdades2017"]
+tags = ["sub", "provincial", "provincialEdades2017", "2017"]
 image = "/images/sub2017/fondo.jpg"
 quote = "\"El Ajedrez es una manera fabulosa para que los niños aprendan a autovalorarse y a autoestimarse\" Saudin Robovic"
 +++

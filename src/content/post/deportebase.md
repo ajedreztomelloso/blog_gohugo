@@ -1,19 +1,12 @@
 +++
-date = "2017-02-03T00:41:15+01:00"
+date = "2017-02-03"
 title = "DeporteBase 3ºJornada"
 draft = true
+tags = ["sub", "2017", "deporteBase", "deporteBase2017"]
 image = "/images/dbase2901.jpg"
 +++
 
-
-
-
-
-
-
 **Club Ajedrez Tomelloso, con muchas posibilidades en el Campeonato Deporte Base**
-
-
 
 El domingo 29 enero daba comienzo la tercera jornada del Campeonato Provincial Deporte Base en Miguelturra, lugar donde se concentran los mejores jugadores de Ciudad Real a nivel base.
 Con una representación de 33 jugadores, el Club Ajedrez Tomelloso contaba con la expedición más numerosa de la provincia.

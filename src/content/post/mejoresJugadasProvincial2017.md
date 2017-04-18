@@ -2,7 +2,7 @@
 date = "2017-03-29"
 title = "Mejores Jugadas Provincial Edades 2017"
 draft = false
-tags = ["sub", "provincial", "problemas", "provincialEdades2017"]
+tags = ["sub", "provincial", "problemas", "provincialEdades2017", "2017"]
 image = "/images/sub2017/fondo.jpg"
 description = "Posiciones de los nuestros en el provincial sub de Ciudad Real."
 +++

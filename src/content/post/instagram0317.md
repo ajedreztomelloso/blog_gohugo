@@ -2,7 +2,7 @@
 date = "2017-03-25"
 title = "Instagram Marzo'2017"
 draft = false
-tags = ["instagram", "images"]
+tags = ["instagram", "images", "2017"]
 image = "/images/Instagram0317/cafeyajedrez.jpg"
 description = "Imágenes de instagram del mes de Marzo de 2017"
 +++

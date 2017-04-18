@@ -2,7 +2,7 @@
 date = "2017-04-19"
 title = "Campeonato Provincial Absoluto 2017"
 draft = true
-tags = ["provincialAbsoluto", "provincial", "bases"]
+tags = ["provincialAbsoluto", "provincial", "bases", "2017"]
 image = "/images/provincialabsoluto17/salajuego.jpg"
 url = "/provincialabsoluto17"
 +++

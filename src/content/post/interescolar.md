@@ -3,7 +3,7 @@ date = "2017-01-19T00:41:15+01:00"
 title = "VII Interescolar"
 draft = true
 image = "/images/cabecera1.jpg"
-tags = ["escolar", "base"]
+tags = ["escolar", "base", "2017"]
 +++
 
 # MARTA JIMENEZ DAZA GANA CON PLENO DE VICTORIAS EL VII INTERESCOLAR DE AJEDREZ.

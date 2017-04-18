@@ -2,7 +2,7 @@
 date = "2017-03-24"
 title = "Enlaces del Mes de Marzo"
 draft = false
-tags = ["enlaces"]
+tags = ["enlaces", "2017"]
 image = "/images/enlaces0317/portada.jpg"
 description = "Enlaces interesantes del mes de Marzo de 2017."
 +++
