@@ -1,22 +1,21 @@
 +++
-date = "2017-04-19"
+date = "2017-04-17"
 title = "Campeonato Provincial Absoluto 2017"
-draft = true
-tags = ["provincialAbsoluto", "provincial", "bases", "2017"]
+draft = false
+tags = ["Provincial", "AbsolutoProvincial","Tomelloso"]
 image = "/images/provincialabsoluto17/salajuego.jpg"
-url = "/provincialabsoluto17"
 +++
 
 
 [Bases](https://drive.google.com/file/d/0B5q_pAGGq_2oVU1WTndDSTY5Z3c/view?usp=sharing)
 
-### Lugar de juego:
+### Lugar de juego:###
 
 TOMELLOSO. Casino de San Fernando. Plaza de España, frente Ayuntamiento.
 
 ![Cartel](/images/provincialabsoluto17/abs.png)
 
-### Días de juego:
+### Días de juego:###
 
 Día   7 de mayo, 10:00 horas - 1ª ronda.  
 Día   7 de mayo, 16:30 horas - 2ª ronda.  
@@ -25,7 +24,7 @@ Día 14 de mayo, 16:30 horas - 4ª ronda.
 Día 21 de mayo, 10:00 horas - 5ª ronda.  
 Día 21 de mayo, 16:30 horas - 6ª ronda.  
 
-### Premios
+### Premios ###
 
 
 | Absoluto | Femenina |  Veteranos |
@@ -37,6 +36,6 @@ Día 21 de mayo, 16:30 horas - 6ª ronda.
 |5º	20 €|	
 
 
-### Inscripciones 
+### Inscripciones ###
 
-La inscripción deberá formalizarse antes del día 5 de mayo, por e-mail a <delecr@faclm.org> ,con copia también al mail <davitxing@hotmail.com> y <clubajedreztomelloso@gmail.com>.
+La inscripción deberá formalizarse antes del día 5 de mayo, por e-mail a <delecr@faclm.org> , con copia también al mail <davitxing@hotmail.com> y <clubajedreztomelloso@gmail.com> .

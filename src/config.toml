@@ -1,6 +1,6 @@
 languageCode = "es-es"
 title = "Club Ajedrez Tomelloso"
-baseurl = "http://www.ajedreztomelloso.com/"
+baseurl = "https://ajedreztomelloso.github.io/"
 # baseurl = "https://ajedreztomelloso.github.io/"
 paginate = 5
 Copyright = "All rights reserved - 2017"
