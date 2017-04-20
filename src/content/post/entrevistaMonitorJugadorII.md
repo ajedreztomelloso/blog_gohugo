@@ -2,7 +2,7 @@
 date = "2017-04-06T01:00:00-00:00"
 title = "Entrevista Monitores-Jugadores: Parte II"
 draft = false
-tags = ["regionalSub2017", "entrevistas"]
+tags = ["regionalSub2017", "sub", "entrevistas", "2017"]
 image = "/images/entrevistaRegionalAjedrez/portada.jpg"
 quote = "\"La persona inteligente busca la experiencia que desea realizar.\" Aldous Huxley"
 description = "Entrevista con los monitores que en su día fueron jugadores de nuestra región. Segunda Parte"

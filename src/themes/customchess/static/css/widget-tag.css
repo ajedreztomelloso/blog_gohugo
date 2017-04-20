@@ -1,0 +1,38 @@
+.widget__link--taglist {
+	-webkit-transition: 0.25s ease-out;
+	-moz-transition: 0.25s ease-out;
+	transition: 0.25s ease-out;
+}
+
+.widget {
+	margin-bottom: 25px;
+	overflow: hidden;
+    width: 80%;
+}
+
+.widget__title {
+	position: relative;
+	font-size: 3rem;
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
+	text-transform: uppercase;
+	border-bottom: 3px solid #337ab7;
+}
+
+.widget__link--taglist {
+	display: inline-block;
+	font-size: 12px;
+	font-weight: 700;
+	color: #fff;
+	padding: 5px 10px;
+	margin: 0 4px 8px 0;
+	white-space: nowrap;
+	text-transform: uppercase;
+	background: #2a2a2a;
+}
+
+.widget__link--taglist:hover, .widget .widget__link--taglist:hover {
+	color: #fff;
+	background: #337ab7;
+}

@@ -2,7 +2,7 @@
 date = "2017-04-03"
 title = "Clase de Ajedrez"
 draft = false
-tags = ["educacion", "clases", "relato"]
+tags = ["educacion", "clases", "relato", "2017"]
 image = "/images/claseajedrez/portada.jpg"
 quote = "\"Lo más decisivo de cualquier actividad es el comienzo: la disposición inicial, la energía que se imprime, el aliento o entusiasmo primeros ...\" Pablo D'Ors"
 +++

@@ -2,6 +2,7 @@
 date = "2017-02-03T00:41:15+01:00"
 title = "Deporte Base Provincial Campeón Cadete y Subcampeón Infantil"
 draft = true
+tags = ["sub", "2017", "deporteBase", "deporteBase2017"]
 image = ""
 +++
 
