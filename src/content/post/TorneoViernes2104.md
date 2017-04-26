@@ -1,12 +1,15 @@
 +++
-date = "2017-04-25"
+date = "2017-04-26"
 title = "Torneo Club Ajedrez Tomelloso 21/04"
 draft = false
 tags = ["2017","ajedrezviernes"]
 image = "/images/viernes/torneo1/imagen2.jpg"
-description = "Jorge Rodrigo Campeón del Torneo"
+description = "Todos los viernes en el Pabellón de la Ciudad Deportiva (Primera Planta) a las 19:00 se disputará un torneo de partidas rápidas. Este primer torneo con una participación de 23 jugadores, Jorge Rodrigo fue el campeón"
 quote = "Jorge Rodrigo Campeón del Torneo"
 +++
+
+![Ronda2](/images/viernes/torneo1/ajedrezviernes2.jpg)
+
 ## Clasificación Final
 
 |Pos |Pts |ID |Ctg NAME |Rtg |Fed |Buc1| BucT|
@@ -36,8 +39,6 @@ quote = "Jorge Rodrigo Campeón del Torneo"
 |23| 1.0| 22| Martínez Pepe| 0| ESP| 5.5| 6.0|
 
 ![Ronda1](/images/viernes/torneo1/ajedrezviernes1.jpg)
-
-![Ronda2](/images/viernes/torneo1/ajedrezviernes2.jpg)
 
 ![Ronda3](/images/viernes/torneo1/ajedrezviernes3.jpg)
 
