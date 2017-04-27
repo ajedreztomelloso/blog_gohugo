@@ -1,7 +1,7 @@
 +++
 date = "2017-04-26"
 title = "Torneo Club Ajedrez Tomelloso 21/04"
-draft = false
+draft = true
 tags = ["2017","ajedrezviernes"]
 image = "/images/viernes/torneo1/imagen2.jpg"
 description = "Todos los viernes en el Pabellón de la Ciudad Deportiva (Primera Planta) a las 19:00 se disputará un torneo de partidas rápidas. Este primer torneo con una participación de 23 jugadores, Jorge Rodrigo fue el campeón"
