@@ -4,7 +4,6 @@ title = "Campeonato Provincial Absoluto 2017"
 draft = false
 tags = ["provincialAbsoluto", "provincial", "bases", "2017"]
 image = "/images/provincialabsoluto17/salajuego.jpg"
-url = "/provincialabsoluto17"
 +++
 
 
