@@ -2,7 +2,7 @@
 date = "2017-05-11"
 title = "Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real "
 draft = false
-tags = [ "Historia"]
+tags = [ "historia", "joseramonramirez", "provincialabsoluto", "provincial", "2017"]
 image = "/images/joseramon/joseramon.jpg"
 quote = "\"Gracias a la memoria se da en los hombres lo que se llama experiencia.\" Aristoteles."
 +++
