@@ -1,7 +1,7 @@
 +++
 date = "2017-05-06"
 title = "Entrevistas Profesores"
-draft = false
+draft = true
 tags = ["educacion", "historia", "2017"]
 image = "/images/bienvenida/clubajedrez.jpg"
 quote = "\"Al bien hacer jamás le falta premio\" Don Quijote de la Mancha."

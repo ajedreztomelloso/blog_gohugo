@@ -16,6 +16,7 @@ En esta página encontrarás toda la información referente al provincial absolu
 
 ## Noticias
 
+* [Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real]({{< ref "ProvincialAbsoluto_Anecdotas.md" >}})
 * [Provincial Absoluto - Apertura]({{< ref "ProvincialAbsoluto2017_2.md" >}})
 * [Provincial Absoluto - Información de Inscripción]({{< ref "ProvincialAbsoluto2017.md" >}})
 
