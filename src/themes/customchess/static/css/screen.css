@@ -2074,3 +2074,7 @@ body:not(.post-template) .post-title {
 article section table img {
     max-height: 155px;
 }
+
+section figure h4 {
+    font-size: 12px !important;
+}
