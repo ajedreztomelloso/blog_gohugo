@@ -22,11 +22,12 @@ Durante los siguientes años, diferentes jugadores han participado en este tipo 
 
 En estos últimos años, el hecho de organizar diferentes competiciones de ajedrez, especialmente un torneo de partidas rápidas que en enero de este año 2017 ha hecho su sexta edición, me ha hecho darme cuenta de que, en general, cuando una persona que nunca ha visto el ambiente de un torneo lo hace por primera vez, se suele sorprender positivamente, porque se da cuenta de que estos eventos son mucho más grandes de lo que ocurre dentro de los tableros.
 Uno de los aspectos que contribuye a mejorar la experiencia en los torneos son esos momentos anecdóticos, ya sean curiosos, graciosas, extrañas o sorprendentes, que con el tiempo se recuerdan. Muchas veces esas anécdotas no tienen por qué suceder durante la competición, sino que los viajes y las estancias durante los campeonatos también son propensos a brindar momentos para el recuerdo y a estrechar los lazos entre los ajedrecistas.
-Puesto que en muchos de los torneos he sido compañero de expedición del anteriormente mencionado Joaquín, he sido testigo directo de algunos de esos momentos brillantes que ha protagonizado, tanto en los torneos, por su peculiar carácter, especialmente a la hora de encajar las derrotas, como en los viajes, por diferentes motivos. 
+
+Puesto que en muchos de los torneos he sido compañero de expedición del anteriormente mencionado Joaquín, he sido testigo directo de algunos de esos momentos brillantes que ha protagonizado, tanto en los torneos, por su peculiar carácter, especialmente a la hora de encajar las derrotas, como en los viajes, por diferentes motivos.
 
 ![joseramon](/images/joseramon/joaquin.jpg)
 
-Joaquín es un jugador a quien le encanta el ajedrez, salvo cuando pierde, y con el que sabes que te lo vas a pasar bien en los torneos, especialmente cuando desenfunda su inagotable repertorio de frases.
+Joaquín es un jugador a quien le encanta el ajedrez ~~salvo cuando pierde~~ y con el que sabes que te lo vas a pasar bien en los torneos, especialmente cuando desenfunda su inagotable repertorio de frases.
 
 Una de las ocasiones en las que no pude evitar reír a carcajadas ocurrió en un abierto de Socuéllamos, en el cual jugó una partida ante uno de los rivales más duros de mi generación en la etapa de formación. En aquel choque, Joaquín logró ventaja de una torre, si bien la zona central del tablero parecía la salida desde Madrid de cualquier autovía en días de puente y no era fácil hacer notar el material extra. Unas jugadas después, Joaquín permitió que su rival le atrapase la dama y diese la vuelta a la partida. Resultado final: derrota de Joaquín y unas palabras dirigidas a su oponente de las que no se olvidan en la vida: _“si el futuro del ajedrez provincial depende de ti, apañados vamos. No sabes a tocino ni aunque te pasen un guarro por el hocico”_.
 
