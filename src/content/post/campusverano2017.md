@@ -70,3 +70,5 @@ Para poder asistir al Campus, hay que tener unos conocimientos básicos de ajedr
 __Eduardo:__ [667 025 317]({{< ref "tel:+34667025317" >}})
 
 ## Organiza: Club Ajedrez Tomelloso
+
+![Campus](/images/Campus2017/campus_2017.jpg)
