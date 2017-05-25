@@ -5,6 +5,7 @@ draft = false
 tags = ["campus","verano","2017"]
 image = "/images/Campus2017/fondo.jpg"
 url = "/campusverano2017"
+description = "El Club Ajedrez Tomelloso organiza este año el Campus de Verano. Se realizará en el Pabellón de la Ciudad Deportiva (Área de Deportes) en los días de 19 al 28 de Julio (Lunes a Viernes). Este Campus cuenta con varias actividades como piscina, futbol, baloncesto, etc."
 +++
 
 
