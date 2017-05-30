@@ -1,4 +1,5 @@
 +++
+author = "carlosgarcia"
 date = "2017-04-18"
 title = "El ajedrez y sus estados mentales"
 draft = false

@@ -1,18 +1,6 @@
 {{ $baseurl := .Site.BaseURL }}
 <article class="post {{ .Section }}">
-    <header class="post-header">
-        <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    </header>
-    {{if .Params.description}}
-    <section class="post-excerpt">
-        <p>{{ .Params.description }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
-    </section>
-    {{else if .Summary}}
-    <section class="post-excerpt">
-        <p>{{ .Summary }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
-    </section>
-    {{end}}
-    <footer class="post-meta">
+    <header class="post-meta">
         {{$author:= .Site.Params.author}}
         {{if .Params.author }}
             {{$author:= .Params.author}}
@@ -31,7 +19,7 @@
         {{else if .Site.Params.author}}
             {{.Site.Params.author}}
         {{end}}
-        {{if .Params.tags }}on
+        {{if .Params.tags }}en
             {{ range $index, $tag := .Params.tags }}
                 <a href="{{$baseurl}}tags/{{ $tag | urlize }}/">#{{ $tag }}</a>,
             {{ end }}
@@ -39,5 +27,22 @@
         <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
             {{ .Date.Format "02/01/2006" }}
         </time>
-    </footer>
+    </header>
+    <header class="post-header">
+        <a href="{{ .RelPermalink }}">
+            <div style="width: 80%; margin: 0 auto">
+                <img src="{{ .Site.BaseURL }}{{ .Params.image }}" class="post-img" />
+            </div>
+            <h2 class="post-title">{{ .Title }}</h2>
+        </a>
+    </header>
+    {{if .Params.description}}
+    <section class="post-excerpt">
+        <p>{{ .Params.description }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
+    </section>
+    {{else if .Summary}}
+    <section class="post-excerpt">
+        <p>{{ .Summary }} <a class="read-more" href="{{.RelPermalink}}">&raquo;</a></p>
+    </section>
+    {{end}}
 </article>

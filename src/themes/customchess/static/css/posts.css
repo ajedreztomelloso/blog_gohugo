@@ -10,6 +10,10 @@
     flex-flow: row wrap;
 }
 
+.post-header h2 {
+    color: #337ab7;
+}
+
 .post-box {
     border-radius: 6px;
     box-shadow: 0 20px 25px 0 rgba(18, 17, 30, .15);
@@ -33,6 +37,8 @@
     -o-transition: all .4s linear 0s;
     transition: all .4s linear 0s;
     max-width: 100%;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 .post-img-container:before {

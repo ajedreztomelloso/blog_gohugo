@@ -1,8 +1,8 @@
 languageCode = "es-es"
 title = "Club Ajedrez Tomelloso"
-baseurl = "http://www.ajedreztomelloso.com/"
-# baseurl = "https://ajedreztomelloso.github.io/"
-paginate = 5
+# baseurl = "http://www.ajedreztomelloso.com/"
+baseurl = "https://ajedreztomelloso.github.io/"
+paginate = 8
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 tags = ["blog"]
@@ -16,8 +16,8 @@ tags = ["blog"]
   authorwebsite = "http://www.ajedreztomelloso.com"
   bio= "Nos gusta pensar"
   logo = "images/logo.png"
-  # googleAnalyticsUserID = "UA-93773412-1" ajedreztomelloso.github.io
-  googleAnalyticsUserID = "UA-93987978-1"
+  googleAnalyticsUserID = "UA-93773412-1" # ajedreztomelloso.github.io
+  # googleAnalyticsUserID = "UA-93987978-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
   # githubName = "vjeantet"
