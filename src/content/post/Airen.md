@@ -1,8 +1,8 @@
 +++
-date = "2017-05-29"
+date = "2017-05-30"
 title = "El ajedrez en las aulas del I.E.S. Airen de Tomelloso "
 draft = false
-tags = [ "ajedrez","airen"]
+tags = [ "clases", "educacion", "airen", "2017"]
 image = "/images/Airen/airen2.png"
 quote = "\"El que abre la puerta de una escuela, cierra una prisión.\" Victor Hugo."
 +++
@@ -55,7 +55,7 @@ El ajedrez no solo aporta aptitudes en matemáticas, según varios estudios incr
 
 {{% blockquote %}}
 
-El club Ajedrez Tomelloso y la enseñanza primaria, caminaban de la mano, las mañanas de los lunes, por los escalones de ascenso al aula cuatro, los libros en el costado la prisa en las zapatillas de deporte.
+El club Ajedrez Tomelloso y la enseñanza secundaria, caminaban de la mano, las mañanas de los lunes, por los escalones de ascenso al aula cuatro, los libros en el costado la prisa en las zapatillas de deporte.
 
 {{% /blockquote %}}
 
@@ -85,7 +85,7 @@ Estas mismas reglas que presiden una de las paredes del aula 4ª son aplicables 
 
 {{% blockquote %}}
 
-El club Ajedrez Tomelloso y la enseñanza primaria se hablaban en silencio en las lentas esperas de los recreos refugiados en la sombra de los casi veinticinco años de historia de este I.E.S. Airen, por donde en otro tiempo iniciara su jornada pastoril el abuelo "Palancas".
+El club Ajedrez Tomelloso y la enseñanza secundaria se hablaban en silencio en las lentas esperas de los recreos refugiados en la sombra de los casi veinticinco años de historia de este I.E.S. Airen, por donde en otro tiempo iniciara su jornada pastoril el abuelo "Palancas".
 
 {{% /blockquote %}}
 
@@ -139,7 +139,7 @@ La hora de matemáticas reemplazada por una hora del juego de las 64 casillas en
  
 {{% blockquote %}}
 
-El club Ajedrez Tomelloso y la enseñanza primaria descubren juntos al final de cada jornada que el milagro de la educación se produce todos los días, en los pasillos, en los despachos, en las aulas, en las conversaciones, en los silencios, en los gestos, en los proyectos, en las ideas, de este instituto con nombre  de variedad de uva blanca, siempre bajo la dirección silenciosa de unos excelentes profesionales.
+El club Ajedrez Tomelloso y la enseñanza secundaria descubren juntos al final de cada jornada que el milagro de la educación se produce todos los días, en los pasillos, en los despachos, en las aulas, en las conversaciones, en los silencios, en los gestos, en los proyectos, en las ideas, de este instituto con nombre  de variedad de uva blanca, siempre bajo la dirección silenciosa de unos excelentes profesionales.
 
 {{% /blockquote %}}
 
