@@ -58,3 +58,7 @@ Comité de competición:
 El comité de competición estará formado por el árbitro principal y el director del torneo. Sus decisiones serán inapelables. Está estrictamente prohibido llevar teléfonos móviles o cualquier otro medio electrónico de comunicación, no permitido por el árbitro, dentro del recito de juego. Si durante las partidas suena el móvil de un jugador, éste perderá su partida. (Artículo 12.2 de las Leyes del Ajedrez). Para cualquier incidencia no recogida en las presentes bases se aplicarán las normas FIDE y FEDA. La participación en el torneo supone la aceptación de estas bases. Los participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento (listados de resultados, clasificaciones, participantes, partidas, etc.).
 
 ## Organiza el CLUB AJEDREZ TOMELLOSO
+
+### Colabora Shuriken ###
+
+[![Shuriken](/images/IIITorneoFamiliar/Logo-Shuriken-400.jpg)](https://www.shuriken64.com/)
