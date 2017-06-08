@@ -48,7 +48,7 @@ Para realizar la inscripción al campus deberá mandar un correo electrónico a 
 Hacer ingreso del importe en la cuenta Club Ajedrez Tomelloso. Una vez recibido, será confirmada la inscripción al campus, mediante respuesta por e-mail. __Fecha límite de inscripción: 14 de julio 23:00 horas.__
 
 
-Cuenta bancaria: ES16 2103 441 7300 3000 3154 Unicaja Banco, S.A 
+Cuenta bancaria: ES16 2103 0441 7300 3000 3154 Unicaja Banco, S.A 
 
 * Inscripción General                   50€
 
