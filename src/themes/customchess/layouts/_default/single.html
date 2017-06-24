@@ -35,6 +35,11 @@
     </header>
 
     <section class="post-content">
+      {{if .Params.subquote}}
+        <blockquote class="paralelhist" style="margin-top: 30px">
+          <p>{{.Params.subquote}}</p>
+        </blockquote>
+      {{end}}
       {{if .Params.quote}}
         <blockquote>
           <p>{{.Params.quote}}</p>

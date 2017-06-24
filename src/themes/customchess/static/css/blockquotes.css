@@ -22,6 +22,25 @@ blockquote.paralelhist{
   box-shadow: 2px 2px 15px #ccc;
 }
 
+div.paralelhist p {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 0 1.75em 0;
+    border: #E3EDF3 1px solid;
+    width: 100%;
+    padding: 10px;
+    font-family: Inconsolata, monospace, sans-serif;
+    font-size: 0.9em;
+    white-space: pre;
+    background: #F7FAFB;
+    border-radius: 3px;
+
+    white-space: pre-wrap;
+
+    word-break: normal !important;
+    word-wrap: break-word !important;
+}
+
 blockquote.paralelhist::before{
   content: "\201C"; /*Unicode for Left Double Quote*/
   
@@ -33,7 +52,7 @@ blockquote.paralelhist::before{
   
   /*Positioning*/
   position: absolute;
-  left: 10px;
+  left: 10px;*/
   top:5px;
 }
 

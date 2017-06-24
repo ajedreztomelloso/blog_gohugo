@@ -64,3 +64,11 @@
 .post code {
     white-space: normal !important;
 }
+
+.blocktext {
+    margin-bottom: 1.75em;
+}
+
+.blocktext p {
+    margin: 0 0 0.3em 0;
+}
