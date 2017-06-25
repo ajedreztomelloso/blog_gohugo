@@ -4,7 +4,7 @@ title = "III Torneo Familiar"
 draft = false
 tags = ["familia","equipos","2017"]
 image = "/images/IIITorneoFamiliar/fondo.jpg"
-url = "/IIITorneoFamiliar"
+url = "/torneofamiliariii"
 description = "Tercerda edición del torneo de familiar. El Club Ajedrez cierra la temporada reuniendo a padres/madres con sus hijos mano a mano para conseguir la mejor clasificación."
 +++
 
