@@ -59,7 +59,7 @@ En la sexta y última ronda tenía como rival al MF albaceteño José Vicente Ji
 
 {{< figure src="/images/regionalIndividual17/JRronda6_2.png" title="Posición tras 43.Dxa7. Juegan negras y ganan." >}}
 
-<a href="/images/regionalIndividual17/solucionJRronda6_2.gif" target="_blank">Solución</a> 
+<a href="/images/regionalIndividual17/JRronda6_2.gif" target="_blank">Solución</a> 
 
 {{< figure src="/images/regionalIndividual17/JRronda6_3.png" title="Posición tras 49.Cd3, en la que el negro dispone de la última oportunidad para luchar por la victoria jugando 49…d4 en lugar de 49…h5." >}}
 
