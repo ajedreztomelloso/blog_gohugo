@@ -42,7 +42,18 @@
       {{end}}
       {{if .Params.quote}}
         <blockquote>
-          <p>{{.Params.quote}}</p>
+          {{.Params.quote}}
+          {{if .Params.quoteAuthor}}
+          <cite>
+            {{if .Params.quoteAuthorLink}}
+            <a href="{{.Params.quoteAuthorLink}}" target="_blank">
+            {{end}}
+            {{.Params.quoteAuthor}}
+            {{if .Params.quoteAuthorLink}}
+            </a>
+            {{end}}
+          </cite>
+          {{end}}
         </blockquote>
       {{end}}
       {{ .Content }}
