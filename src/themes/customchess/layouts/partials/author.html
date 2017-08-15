@@ -5,7 +5,7 @@
 {{$authorlocation := or $author.location .Site.Params.authorlocation }}
 {{$authorwebsite := or $author.website .Site.Params.authorwebsite }}
 <section class="author">
-  <h4><a href="{{.Site.BaseURL}}">{{$authorname}}</a></h4>
+  <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
   {{if $authorbio}}
   <p>{{$authorbio}}</p>
   {{else}}
@@ -13,7 +13,7 @@
   {{end}}
   <div class="author-meta">
     {{with $authorlocation}}<span class="author-location icon-location">{{.}}</span>{{end}}
-    {{with $authorwebsite}}<span class="author-link icon-link"><a href="{{.}}">{{.}}</a></span>{{end}}
+    {{with $authorwebsite}}<span class="author-link icon-link"><a href="{{.}}">Leer más articulos de este autor.</a></span>{{end}}
   </div>
 </section>
 {{end}}

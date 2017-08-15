@@ -1,18 +1,12 @@
 {{ partial "header.html" . }}
 {{ $baseurl := .Site.BaseURL }}
+  
+{{ if eq .Params.imagetype "top" }}
+    <header class="main-header post-head" style="background-image: url({{.Params.image}}); background-position-y: top">
+  {{else}}
+      <header class="main-header post-head" style="background-image: url({{.Params.image}})">
+  {{end}}
 
-{{if .Params.image}}
-  {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
-  <header class="main-header post-head" style="background-image: url({{.Params.image}})">
-  {{ else }}
-  <header class="main-header post-head" style="background-image: url({{ $baseurl }}{{.Params.image}})">
-  {{ end }}
-  <nav class="main-nav overlay clearfix">
-{{else}}
-<header class="main-header post-head no-cover">
-  <nav class="main-nav clearfix">
-{{end}}
-  </nav>
 </header>
 
 
@@ -41,9 +35,25 @@
     </header>
 
     <section class="post-content">
+      {{if .Params.subquote}}
+        <blockquote class="paralelhist" style="margin-top: 30px">
+          <p>{{.Params.subquote}}</p>
+        </blockquote>
+      {{end}}
       {{if .Params.quote}}
         <blockquote>
-          <p>{{.Params.quote}}</p>
+          {{.Params.quote}}
+          {{if .Params.quoteAuthor}}
+          <cite>
+            {{if .Params.quoteAuthorLink}}
+            <a href="{{.Params.quoteAuthorLink}}" target="_blank">
+            {{end}}
+            {{.Params.quoteAuthor}}
+            {{if .Params.quoteAuthorLink}}
+            </a>
+            {{end}}
+          </cite>
+          {{end}}
         </blockquote>
       {{end}}
       {{ .Content }}

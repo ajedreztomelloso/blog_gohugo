@@ -1,0 +1,123 @@
+blockquote {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 1.75em 0 1.75em -2.2em;
+    padding: 0 0 0 1.75em;
+    border-left: #337ab7 0.4em solid;
+}
+
+blockquote.quote-rigth {
+    font: 20px italic Georgia, serif !important;
+    border-left: none !important;
+    text-align: right !important;
+}
+
+blockquote.quote-rigth cite {
+    color: #999999;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+}
+ 
+blockquote.quote-rigth cite:before {
+    content: "\2014 \2009";
+}
+
+blockquote p {
+    margin: 0.8em 0;
+    font-style: italic;
+}
+
+blockquote small {
+    display: inline-block;
+    margin: 0.8em 0 0.8em 1.5em;
+    font-size: 0.9em;
+    color: #CCC;
+}
+
+blockquote small:before { content: "\2014 \00A0"; }
+
+blockquote cite {
+    font-weight: 700;
+}
+
+blockquote cite a { font-weight: normal; }
+
+blockquote.paralelhist{
+  display:block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+  
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+  text-align: justify;
+  
+  /*Borders - (Optional)*/
+  border-left: 15px solid #337ab7;
+  border-right: 2px solid #337ab7;
+  
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+}
+
+div.paralelhist p {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 0 1.75em 0;
+    border: #E3EDF3 1px solid;
+    width: 100%;
+    padding: 10px;
+    font-family: Inconsolata, monospace, sans-serif;
+    font-size: 0.9em;
+    white-space: pre;
+    background: #F7FAFB;
+    border-radius: 3px;
+
+    white-space: pre-wrap;
+
+    word-break: normal !important;
+    word-wrap: break-word !important;
+}
+
+blockquote.paralelhist::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+  
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #337ab7;
+  
+  /*Positioning*/
+  position: absolute;
+  left: 10px;*/
+  top:5px;
+}
+
+blockquote.paralelhist::after{
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote.paralelhist a{
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #337ab7;
+}
+
+blockquote.paralelhist a:hover{
+ color: #666;
+}
+
+blockquote em{
+  font-style: italic;
+}

@@ -4,7 +4,7 @@ title = "Provincial Edades 2017 Avance Final"
 draft = false
 tags = [ "provincial", "sub", "2017", "provincialEdades2017"]
 image = "/images/EDADES/Portada.jpg"
-description = "Avance del campeonato provincial por edades que ha finalizado este domingo 26 de Marzo"
+description = "Avance del campeonato provincial por edades que ha finalizado este domingo 26 de Marzo."
 +++
 
 ## Álvaro Ramírez Campeón Provincial Sub-14
