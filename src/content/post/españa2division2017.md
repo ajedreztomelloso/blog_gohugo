@@ -3,7 +3,7 @@ date = "2017-08-13"
 title = "9º Puesto para Tomelloso en 2º División del Campeonato de España Por Equipos"
 draft = false
 tags = [ "campeonatoEspaña", "equipos", "2017"]
-image = "/images/ceclub2division2017/bandera.jpg"
+image = "/images/ceclub2division2017/portada.jpg"
 imageType = "top"
 quote = "\"Que el destino no nos tome las medidas\""
 quoteAuthor = "Vetusta Morla"
@@ -50,13 +50,13 @@ La segunda ronda nos llevó directos a la tele. En la primera retransmisión de 
 
 ![vs canarias](/images/ceclub2division2017/canarias2.jpg)
 
-* __Mesa 1__: Carlos sufrió con piezas negras la blanca constante. Jugar contra un GM nunca es fácil, y si éste consigue una mínima ventaja en la apertura acabas sufriendo mucho. Finalmente Danyyil Dvirnyy ganaba un peón, pero Carlos intentó sacrificar calidad por un poco de actividad; pero el GM italiano hizo todas las jugadas buenas y no dio opción de contrajuego alguno.
+* __Mesa 1__: Carlos sufrió con piezas negras la presión blanca constante. Jugar contra un GM nunca es fácil, y si éste consigue una mínima ventaja en la apertura acabas sufriendo mucho. Finalmente Danyyil Dvirnyy ganaba un peón, pero Carlos intentó sacrificar calidad por un poco de actividad; pero el GM italiano hizo todas las jugadas buenas y no dio opción de contrajuego alguno.
 
 * __Mesa 2__: Eduardo López tuvo una gran oportunidad de vencer a su primer MI. Sabrina Vega hizo una apertura dudosa, con un sacrificio de peón que no valía, lo que la dejo con las piezas muy descoordinadas. El tomellosero con piezas blancas, fue a por el rey negro, pero su ataque no fue preciso y se acabó en un final de alfiles de distinto color donde Sabrina tenía ventaja aunque se firmaron las tablas.
 
 * __Mesa 3__: Iván Moreno se estrenó con piezas negras contra Stephane Bressac. En una siciliana muy igualada, Iván fue a por la victoria avanzando sus peones en un final de torres con dos peones pasados por ambos bandos. Los peones de Iván estaban en el flanco de dama; mientras que los del francés estaban en el centro. El de Tomelloso no pudo coordinar bien sus piezas y al avanzar prematuramente el peón de b lo acabó perdiendo y su posición fue cayendo poco a poco, por lo que acabó derrotado.
 
-* __Mesa 4__: José Ramón Ramírez también jugaba su primera partida en este torneo. Defendió las piezas blancas contra Daniel Gutiérrez Olivares, en una siciliana donde el negro se impuso en el flanco de dama y al entrar rápido el negro por allí, el jugador bolañego intentó un contrajuego en el enroque negro sacrificando varias piezas, pero no dio resultado. El canario acabó siendo uno de los mejores tableros 4 del torneo.
+* __Mesa 4__: José Ramón Ramírez también jugaba su primera partida en este torneo. Defendió las piezas blancas contra Daniel Gutiérrez Olivares, en una francesa donde el negro se impuso en el flanco de dama y al entrar rápido el negro por allí, el jugador bolañego intentó un contrajuego en el enroque negro sacrificando varias piezas, pero no dio resultado. El canario acabó siendo uno de los mejores tableros 4 del torneo.
 
 ![Foto Aérea](/images/ceclub2division2017/fotoaerea.jpg)
 
@@ -112,13 +112,13 @@ La ronda 5 era una nueva oportunidad para poder ir a las mesas de retransmisión
 
 ![Tomelloso vs Oromana](/images/ceclub2division2017/oromana.jpg)
 
-* __Mesa 1__: La preparación de la siciliana de Carlos salió muy bien y en una posición complicada donde las negras con Cristian Silva en su defensa, no fueron precisas. La ventaja blanca pronto se notó sobre el tablero y el punto calló temprano en manos tomelloseras.
+* __Mesa 1__: La preparación de la siciliana de Carlos salió muy bien y en una posición complicada donde las negras con Cristian Silva en su defensa, no fueron precisas. La ventaja blanca pronto se notó sobre el tablero y el punto cayó temprano en manos tomelloseras.
 
 * __Mesa 4__: José Ramón Ramírez volvió a ganar en una posición de enroques opuestos. Álvaro Sobrino fue esta vez su víctima. En una partida muy sólida y en la que siempre estuvo muy seguro, el jugador bolañego puso el 2-0 a favor, aunque las demás partidas no tenían muy buena pinta.
 
-* __Mesa 2__: Eduardo López fue el primero en ceder el punto. César Gallardo con piezas blancas aprovechó una clavada para apretar al más joven de los hermanos. Edu sacrificó un peón por actividad, pero el experimento no acabó de cuajar. Finalmente en los apuros de tiempo perdió una calidad, que luego intentó luchar para conseguir las tablas pero no pudo impedir que el 2-1 subiera al marcador.
+![José Ramón](/images/ceclub2division2017/joseramon.jpg)
 
-![Eduardo López Quevedo](/images/ceclub2division2017/edu.jpg)
+* __Mesa 2__: Eduardo López fue el primero en ceder el punto. César Gallardo con piezas blancas aprovechó una clavada para apretar al más joven de los hermanos. Edu sacrificó un peón por actividad, pero el experimento no acabó de cuajar. Finalmente en los apuros de tiempo perdió una calidad, que luego intentó luchar para conseguir las tablas pero no pudo impedir que el 2-1 subiera al marcador.
 
 * __Mesa 3__: Por último, Iván Moreno con blancas, no pudo con el muro de piedra planteado por Juan Chacón. El ataque negro era muy fuerte y acabó convirtiéndose en una calidad de ventaja, donde el final estuvo disputado, pero el jugador andaluz no tuvo problemas para anotar el empate en el marcador.
 
@@ -134,11 +134,11 @@ En la clasificación en la ronda 6 nos encontrábamos en 15º lugar, justo en nu
 
 * __Mesa 3__: Ángel Carlos López fue el primero en acabar. Blanca de la Pena (1805) jugaba con piezas blancas y planteó una siciliana un poco pasiva. Hasta ahora la jugadora sub-18 asturiana estaba realizando un gran torneo con 3/4. Una combinación del negro hicieron que las blancas tuvieran que ceder su alfil de g2 y las casillas blancas quedaron todas muy débiles. Finalmente el ataque negro finalizó con la ganancia de un peón y en un final de alfiles del mismo color Ángel puso el 1-0 para Tomelloso.
 
-![José Ramón](/images/ceclub2division2017/joseramon.jpg)
-
 * __Mesa 4__: José Ramón puso el 3/4 en su marcador en una muy buena apertura con blancas donde siempre tuvo la iniciativa. Su rival, José Ángel Moran (1742), no coordinó bien sus piezas y su rey estaba muy inseguro. Con el rey descubierto y varios peones de menos que ya se había comido el caballo blanco, José Ramón remató la partida.
 
 * __Mesa 2__: Eduardo López tuvo una partida llena de emociones con blancas frente a Daniel Centrón (2112). Maniobró en la apertura para que Daniel no pudiera poner en el tablero su apertura favorita y después, en el medio juego, el asturiano encontró una combinación donde cambiaba dos piezas por torre y dos peones. La posición era complicada pero el blanco reculó bien con su alfil y con un poco de ayuda del negro que abrió la columna a donde se encontraba la única torre del tomellosero, el ataque fue letal. El blanco entro a la séptima final con torre y dama y la debilidad de la diagonal principal negra al perder el peón de e7, hizo que en una combinación colgase la dama del negro.
+
+![Eduardo López Quevedo](/images/ceclub2division2017/edu.jpg)
 
 * __Mesa 1__: La apertura de Carlos García con negras fue perfecta frente a Saúl Vinuela (2193). Pronto tuvo peón de ventaja y después, en un intentó de contrajuego por parte de las blancas, ganaría otro más. El blanco se lanzó al ataque y en las complicaciones Carlos se lió y se acabó en una posición donde el blanco acabó dando jaque continuo.
 
