@@ -34,7 +34,7 @@ En resumen, una gran organización por parte del Club de Ajedrez Almansa, como e
 
 {{% blockquote %}}
 
-Juan José Losa se incorporó a nuestro club allá por el año 2006 cuando se creaba éste clásico ya torneo almanseño. Sus primeras lecciones las recibió de Alberto Martínez cebolla en los salones de la primera planta del Casino de Tomelloso. 
+Juan José Losa se incorporó a nuestro club allá por el año 2006 cuando se creaba éste clásico ya torneo almanseño. Sus primeras lecciones las recibió de Alberto Martínez Cebolla en los salones de la primera planta del Casino de Tomelloso. 
 
 {{% /blockquote %}}
 
@@ -94,7 +94,7 @@ Para terminar, en la última ronda me tocó enfrentarme a un jugador invidente, 
 
 {{% blockquote %}}
 
-La vocación ajedrecistica de Javier Órtiz fue relativamente  tardía, iniciaándose en éstas lides escaqueadas no hará mas de cinco años.
+La vocación ajedrecistica de Javier Órtiz fue relativamente  tardía, iniciándose en estas lindes escaqueadas no hará mas de cinco años.
 
 {{% /blockquote %}}
 
