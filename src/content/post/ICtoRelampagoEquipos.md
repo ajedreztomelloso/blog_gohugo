@@ -7,7 +7,7 @@ image = "/images/CtoRelampagoEquipos/ICtoEquiposBlitz17.jpg"
 description = " "
 +++
 
-![Cartel](/images/CtoRelampagoEquipos/CartelBlitz.png)
+![Cartel](/images/CtoRelampagoEquipos/cartel.png)
 
 *	Día de juego: 26 de agosto de 2017.  
 *	Lugar de juego: Casino Tomelloso. Calle de Don Víctor Peñasco, 25 
