@@ -1,8 +1,9 @@
 +++
+author = "angelluis"
 date = "2017-03-20"
 title = "Bienvenidos a la nueva Web"
 draft = false
-tags = ["educacion", "historia", "2017"]
+tags = ["educacion", "historia", "angelluis", "2017"]
 image = "/images/bienvenida/clubajedrez.jpg"
 quote = "\"Al bien hacer jamás le falta premio\" Don Quijote de la Mancha."
 +++

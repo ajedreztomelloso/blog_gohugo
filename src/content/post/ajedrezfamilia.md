@@ -1,8 +1,9 @@
 +++
+author = "angelluis"
 date = "2017-06-28"
 title = "Ajedrez III Torneo familiar de Tomelloso "
 draft = false
-tags = [ "ajedrez","ajedrezEnFamilia","2017"]
+tags = [ "ajedrez","ajedrezEnFamilia","angelluis","2017"]
 image = "/images/ajedrezfamilia/familia5.jpg"
 imagetype = "top"
 quote = "\"Pintor que no quiere vender, solterón que sólo quiere pintar, hombre de abrigo viejo y bata blanca, va en bicicleta por el interior de sus propios cuadros.\" Fco. García Pavón sobre Antonio López Torres."

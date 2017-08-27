@@ -1,5 +1,6 @@
 +++
 date = "2017-04-05"
+author = "angelluis"
 title = "Regionales por edades de Castilla la Mancha 2017"
 draft = false
 tags = ["relato", "regionalSub2017", "2017", "sub"]

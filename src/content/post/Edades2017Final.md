@@ -1,8 +1,9 @@
 +++
+author = "angelluis"
 date = "2017-03-27"
 title = "Edades 2017 Final"
 draft = false
-tags = ["educacion", "sub", "provincialEdades2017", "2017"]
+tags = ["educacion", "sub", "provincialEdades2017", "angelluis", "2017"]
 image = "/images/Edades2017Final/grupo.jpg"
 quote = "\"La vida es como un juego de Ajedrez, cambiando con cada movimiento..\" Proverbio chino"
 +++

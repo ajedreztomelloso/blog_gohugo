@@ -1,8 +1,9 @@
 +++
+author = "pacoramirez"
 date = "2017-03-21"
 title = "Peón P'alante"
 draft = false
-tags = ["educacion", "padres", "relato", "2017"]
+tags = ["educacion", "padres", "relato", "pacoramirez", "2017"]
 image = "/images/peonpalante/alvaro.jpg"
 +++
 

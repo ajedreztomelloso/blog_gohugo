@@ -1,8 +1,9 @@
 +++
+author = "angelcarlos"
 date = "2017-06-06"
 title = "Entrevistas Profesores de Tomelloso"
 draft = false
-tags = ["educacion", "entrevista", "2017"]
+tags = ["educacion", "entrevista", "angelcarlos", "2017"]
 image = "/images/EntrevistaProfesores/airen15.png"
 quote = "\"La educación es el arma más poderosa que puedes usar para cambiar el mundo.\" Nelson Mandela."
 +++

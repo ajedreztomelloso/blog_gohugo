@@ -1,8 +1,9 @@
 +++
 date = "2017-05-05"
+author = "angelcarlos"
 title = "Comienza el Campeonato Provincial Absoluto"
 draft = false
-tags = ["provincialAbsoluto", "provincial", "bases", "2017"]
+tags = ["provincialAbsoluto", "provincial", "bases", "angelcarlos", "2017"]
 image = "/images/provincialabsoluto17/casinosanfernando.jpg"
 quote = "\"¿Estilo? Yo no tengo estilo\" Anatoly Karpov"
 +++

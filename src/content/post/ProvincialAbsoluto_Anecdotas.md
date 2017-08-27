@@ -1,5 +1,6 @@
 +++
 date = "2017-05-11"
+author = "joseramon"
 title = "Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real "
 draft = false
 tags = [ "historia", "joseramonramirez", "provincialabsoluto", "provincial", "2017"]

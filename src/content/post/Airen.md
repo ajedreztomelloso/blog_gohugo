@@ -1,8 +1,9 @@
 +++
+author = "angelluis"
 date = "2017-05-30"
 title = "El ajedrez en las aulas del I.E.S. Airen de Tomelloso "
 draft = false
-tags = [ "clases", "educacion", "airen", "2017"]
+tags = [ "clases", "educacion", "airen", "2017", "angelluis"]
 image = "/images/Airen/airen2.png"
 quote = "\"El que abre la puerta de una escuela, cierra una prisión.\" Victor Hugo."
 +++

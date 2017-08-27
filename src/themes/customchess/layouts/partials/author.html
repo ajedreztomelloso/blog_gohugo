@@ -4,7 +4,9 @@
 {{$authorbio := or $author.bio .Site.Params.bio }}
 {{$authorlocation := or $author.location .Site.Params.authorlocation }}
 {{$authorwebsite := or $author.website .Site.Params.authorwebsite }}
+{{$thumbnail := or $author.thumbnail .Site.Params.thumbnail }}
 <section class="author">
+  <!--<img class="author-thumb" src="{{.Site.BaseURL}}/{{$thumbnail}}" />-->
   <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
   {{if $authorbio}}
   <p>{{$authorbio}}</p>

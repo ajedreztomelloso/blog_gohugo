@@ -1,8 +1,9 @@
 +++
 date = "2017-07-01"
+author = "angelcarlos"
 title = "Subcampeones de Castilla la Mancha"
 draft = false
-tags = [ "regionalPorEquipos", "regional", "equipos", "2017"]
+tags = [ "regionalPorEquipos", "regional", "equipos", "angelcarlos", "2017"]
 image = "/images/regionalEquipos17/Trofeo.jpg"
 imageType = "top"
 quote = "\"Hay un fuego dentro que nos guía desde niños, la llama se quema si detrás no hay un latido.\" La Maravillosa Orquesta del Alcohol."

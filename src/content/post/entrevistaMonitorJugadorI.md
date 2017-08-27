@@ -1,8 +1,9 @@
 +++
+author = "angelcarlos"
 date = "2017-04-06"
 title = "Entrevista Monitores-Jugadores: Parte I"
 draft = false
-tags = ["regionalSub2017", "sub", "entrevistas", "2017"]
+tags = ["regionalSub2017", "sub", "entrevistas", "angelcarlos", "2017"]
 image = "/images/entrevistaRegionalAjedrez/regional.jpg"
 quote = "\"Los jugadores de hoy son los monitores de mañana\""
 description = "Entrevista con los monitores que en su día fueron jugadores de nuestra región."

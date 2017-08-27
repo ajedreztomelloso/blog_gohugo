@@ -1,8 +1,9 @@
 +++
 date = "2017-05-26"
+author = "angelluis"
 title = "Provincial Absoluto final "
 draft = false
-tags = ["provincialAbsoluto", "2017", "provincial", "cronica"]
+tags = ["provincialAbsoluto", "2017", "provincial", "angelluis", "cronica"]
 image = "/images/Provincial_Absoluto2017_5/premios.JPG"
 imagetype = "top"
 quote = "\"La educación es el arma más poderosa que puedes usar para cambiar el mundo.\" Nelson Mandela."

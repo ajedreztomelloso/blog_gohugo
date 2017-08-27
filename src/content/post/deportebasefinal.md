@@ -6,9 +6,6 @@ tags = ["sub", "2017", "deporteBase", "deporteBase2017"]
 image = ""
 +++
 
-
-
-
 **EL CLUB AJEDREZ TOMELLOSO SE PROCLAMA CAMPEÓN CADETE Y SUBCAMPEÓN**
 
 INFANTIL EN EL DEPORTE BASE PROVINCIAL

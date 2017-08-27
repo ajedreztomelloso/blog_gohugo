@@ -965,10 +965,14 @@ body:not(.post-template) .post-title {
 }
 
 .author-thumb {
-    width: 24px;
-    height: 24px;
+    border: 2px solid #fff;
+    box-shadow: inset 0 1.5px 3px 0 rgba(0,0,0,.15), 0 1.5px 3px 0 rgba(0,0,0,.15);
+    margin: -38px auto 12px;
+
+    width: 10px;
+    height: 10px;
     float: left;
-    margin-right: 9px;
+    /*margin-right: 9px;*/
     border-radius: 100%;
 }
 

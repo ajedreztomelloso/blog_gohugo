@@ -1,8 +1,9 @@
 +++
 date = "2017-05-15"
+author = "angelluis"
 title = "Provincial Absoluto 2ª jornada "
 draft = false
-tags = [ "provincial", "provincialabsoluto", "2017", "cronica"]
+tags = [ "provincial", "provincialabsoluto", "2017", "angelluis", "cronica"]
 image = "/images/Provincial_Absoluto2017_4/primerasmesas.jpg"
 quote = "\"Recordar es fácil para el que tiene memoria. Olvidarse es difícil para el que tiene corazón.\" Gabriel García Márquez."
 +++

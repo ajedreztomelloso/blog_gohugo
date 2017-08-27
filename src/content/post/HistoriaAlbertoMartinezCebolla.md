@@ -1,5 +1,6 @@
 +++
 date = "2017-05-17"
+author = "albertomartinez"
 title = "Mis años de ajedrez en Tomelloso"
 draft = false
 tags = [ "historia", "albertomartinezcebolla", "2017"]
@@ -47,5 +48,3 @@ Entre 2003 y 2006 las alegrías vinieron de la evolución de los chicos, de sus 
 ![alberto](/images/alberto/alberto3.JPG)
 
 Ese año llegó el concurso de traslados, que señalaba el final de mi experiencia manchega. Hicimos una sesión de cine con padres viendo En busca de Bobby Fischer y nunca olvidaré el cariño de la despedida de mi familia ajedrecista de Tomelloso. Gracias a todos por estos años. Los llevaré siempre en el corazón.
-
-Alberto Martínez Cebolla
