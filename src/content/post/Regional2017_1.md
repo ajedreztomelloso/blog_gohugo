@@ -3,7 +3,7 @@ date = "2017-04-05"
 author = "angelluis"
 title = "Regionales por edades de Castilla la Mancha 2017"
 draft = false
-tags = ["relato", "regionalSub2017", "2017", "sub"]
+tags = ["relato", "regional", "regionalSub2017", "2017", "sub"]
 image = "/images/Regional2017_1/Hotel.jpg"
 quote = "\"Aunque pienses en la palabra “lámpara” no se enciende la luz. Que la motivación sea real, seguida por la práctica y no se quede sólo en una idea\" Ramiro Calle"
 +++

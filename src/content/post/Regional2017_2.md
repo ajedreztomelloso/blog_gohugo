@@ -2,7 +2,7 @@
 date = "2017-04-10"
 title = "Regionales por Edades 2017 Resultados"
 draft = false
-tags = ["regionalSub2017", "sub", "2017"]
+tags = ["regionalSub2017", "regional", "sub", "2017"]
 image = "/images/Regional2017_2/grupo.jpg"
 topimage = true
 quote = "\"Cuando empiezas a desaprender los alfiles no son alfiles, los caballos no son caballos y los peones no son peones\" Jonathan Rowson"

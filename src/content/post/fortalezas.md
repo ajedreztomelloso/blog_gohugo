@@ -3,7 +3,7 @@ date = "2017-08-07"
 author = "joseramon"
 title = "Fortalezas y otros planes defensivos en ajedrez"
 draft = false
-tags = ["fortaleza","2017"]
+tags = ["fortaleza","articulo","2017"]
 image = "/images/Fortalezas/CastilloDonaBerenguela.jpg"
 imageType = "top"
 +++

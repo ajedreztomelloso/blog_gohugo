@@ -2,7 +2,7 @@
 date = "2017-03-28"
 title = "Regionales Edades 2017"
 draft = false
-tags = [ "regionalSub2017", "sub", "2017"]
+tags = [ "regionalSub2017", "regional", "sub", "2017"]
 image = "/images/entrevistaRegionalAjedrez/regional.jpg"
 imagetype = "top"
 quote = "\"Ninguno de nosotros es tan bueno como todos nosotros juntos.\" Ray Kroc"

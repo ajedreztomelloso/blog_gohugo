@@ -3,7 +3,7 @@ date = "2017-04-10"
 author = "angelluis"
 title = "Regionales 2017 Final"
 draft = false
-tags = [ "relato", "regionalSub2017", "sub", "angelluis", "2017"]
+tags = [ "relato", "regional", "regionalSub2017", "sub", "angelluis", "2017"]
 image = "/images/Regional2017_3/alfonsoXciudadreal.jpg"
 quote = "\"Ninguno de nosotros es tan bueno como todos nosotros juntos.\" Ray Kroc"
 +++

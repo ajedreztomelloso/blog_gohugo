@@ -2,7 +2,7 @@
 <article class="post {{ .Section }}">
     <header class="post-meta">
         {{$author:= .Site.Params.author}}
-        {{if .Params.author }}
+        <!--{{if .Params.author }}
             {{$author:= .Params.author}}
             {{if isset .Site.Data.authors $author}}
                 {{$author := index .Site.Data.authors .Params.author }}
@@ -13,7 +13,7 @@
             <img class="author-thumb" src="{{ .Site.BaseURL }}{{ $author.thumbnail }}" alt="Author image" nopin="nopin" />
         {{else if .Site.Params.logo }}
             <img class="author-thumb" src="{{ .Site.BaseURL }}{{.Site.Params.logo}}" alt="Author image" nopin="nopin" />
-        {{end}}
+        {{end}}-->
         {{ if isset $author "name" }}
             {{$author.name}}
         {{else if .Site.Params.author}}
