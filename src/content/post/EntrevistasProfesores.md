@@ -91,15 +91,11 @@ __José Ramón__: Ya lo he respondido en la pregunta anterior pero puedo añadir
 
 __Javier__: Matemáticas, educación en valores, lenguaje, ciencias sociales y educación física.
 
-{{% blocktext %}}
-
 __Charo__: Como he comentado anteriormente, sería el área de matemáticas la que más se beneficiaría de la práctica de este juego. He visto como niños que tenían dificultades en la resolución de problemas comenzaban a razonar sobre los datos que les daba el problema y saber elegir que operación era la adecuada para dar respuesta a lo que le pedían. 
 
 También he comprobado como niños de los que se denominan en las aulas como inquietos podían estar centrados y quietos durante horas concentrados en las jugadas sin que los estímulos que se daban a su alrededor les desconcentraran. Es algo increíble, pero es cierto.
 
 Teniendo esto presente, pondría este deporte del ajedrez como actividad extraescolar en todos los centros de la localidad o por lo menos en más de uno. Es una situación que reclamé al Concejal de Educación y que espero que pueda hacerse realidad en los próximos cursos. 
-
-{{% /blocktext %}}
 
 __Emi__: El área de matemáticas sobre todo.
 
@@ -117,15 +113,9 @@ __Javier__: Considero que una sesión semanal en cada curso sería ideal, aunque
 
 __Charo__: En la actualidad, y teniendo muy presente las características de los alumnos que encontramos en las aulas el juego es muy importante para que se produzca el aprendizaje por lo que no estaría mal dejar por lo menos una sesión semanal para la práctica de este juego dentro del horario lectivo o por lo menos fomentar su practica en horarios de patio como un juego más. Nosotros en nuestro centro, lo dejamos practicar como recompensa cuando nuestros alumnos acaban pronto con las tareas encomendadas.
 
-{{% blocktext %}}
-
 __Emi__: Se podría introducir como una sesión semanal durante un trimestre del curso escolar, aunque la posibilidad de darla como actividad extraescolar en los centros educativos también es muy interesante.
 
 Las actividades extraescolares que se desarrollan en los centros educativos tienen muy buena aceptación por parte de los padres y de los niños ya que son más cómodas al evitar, en la mayoría de los casos los desplazamientos en coche.
-
-{{% /blocktext %}}
-
-{{% blocktext %}}
 
 __Yolanda__: Como asignatura lo veo inviable y personalmente tengo mis dudas. 
 
@@ -135,9 +125,6 @@ En horario lectivo (que no es incompatible con la extraescolar comentada anterio
 
 He de hacer notar que en este centro, antes (cuando no teníamos tantas horas lectivas) se impartían clases de ajedrez en los recreos por profesores aficionados y seguimos practicando este juego siempre que los alumnos quieren en las horas de guardia. Tenemos unos 15 tableros para ello.
 
-{{% /blocktext %}}
-
-
 ![Eduardo dando clase](/images/EntrevistaProfesores/airen15.png)
 
 ### 6. ¿Creéis que esa asignatura la tendría que dar un profesor del centro? ¿un ajedrecista con más conocimiento técnico? ¿la dupla de ambos?
@@ -146,25 +133,17 @@ __José Ramón__: Esto también lo tengo claro. Debe ser un trabajo de equipo.
 
 __Javier__: Si el maestro no está formado, deben darlo los dos, aunque considero que deberían formarse a los maestros.
 
-{{% blocktext %}}
-
 __Charo__: Creo que vuestra labor como Club de Ajedrez es muy importante y tiene mucho peso en cuanto a la divulgación de este juego en muchos lugares. 
 
 Quizá habría que empezar por las facultades de la enseñanza donde se forman los futuros maestros, donde habría que ponerla como una asignatura más. Pero hasta que eso llegue os animo para que a través de los alumnos que cada año van formando parte del club promocionéis este juego  porque son los propios compañeros de clase los que van animando al resto. Una vez configurado un Club sólido, con muchos componentes se pasaría a dar clases  tanto a nivel de extraescolares como a nivel de horario lectivo. El camino es largo pero tenéis mucho futuro. 
 
-{{% /blocktext %}}
-
 __Emi__: Si existiese como asignatura sería complicado que la diese un ajedrecista sin formación pedagógica o un maestro sin ser especialista en ajedrez.
-
-{{% blocktext %}}
 
 __Yolanda__: Quien sea pero evidentemente con conocimiento técnico y capacidad para trasmitirlo.
 
 Ya lo he comentado en el punto anterior. Creo que si se incorpora en sesiones dentro del horario lectivo, se debería organizar en todo el pueblo y realizarlo siempre en los mismos niveles. Por ejemplo, en cuarto de primaria de todos los centros y en primero (ó segundo) de secundaria de todos los centros de la localidad.(Que estén dispuestos, claro). 
 
 Totalmente diferente sería si ya el centro lo acepta como actividad extraescolar. En este caso se podrían establecer niveles y realizarlo todos los años solo con alumnos voluntarios , pero imagino que para eso está la escuela de ajedrez, ¿no?.
-
-{{% /blocktext %}}
 
      Uno de los problemas que nos ha surgido en nuestra entrada en secundaria es que muchos alumnos no conocían el juego; pero había muchos otros que ya lo habían visto en el colegio anteriormente. Esto nos ha hecho preguntarnos y queríamos conocer vuestro punto de vista:
 
@@ -174,13 +153,9 @@ __José Ramón__: Como mi propuesta sería la de que se convirtiera en un área 
 
 __Javier__: CLARAMENTE: no confío mucho en este tipo de proyectos localistas que dependen del criterio de los políticos locales. Creo que debería ser incluido en las propias leyes. Si no tendrán un corto recorrido.
 
-{{% blocktext %}}
-
 __Charo__: Es un deporte al que cada curso se suman más participantes y eso es porque se han ido viendo progresivamente los beneficios del mismo. Así, las AMPAs de los colegios comenzaron a promocionarlo al ver el interés de los padres por la práctica del mismo. 
 
 Todos estos datos ponen de relieve que es necesario que desde la administración competente se promueva este juego a nivel local. Es necesario publicitar este deporte desde el principio de curso ofreciendo por lo menos 4 o 5 centros para su práctica y dos niveles de dificultad. 
-
-{{% /blocktext %}}
 
 __Emi__: Se podría incluir una olimpiada de ajedrez igual que se hacen olimpiadas de baloncesto o atletismo entre todos los centros educativos. El inconveniente es que todos los niños, aunque no sea su deporte favorito, saben darle patadas al balón.  Sin embargo, jugar al ajedrez requiere unos conocimientos previos y una preparación que sólo se adquiere con clases específicas y con la práctica.
 
