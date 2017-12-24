@@ -1,9 +1,10 @@
 +++
 date = "2017-12-01"
-title = "VIII Campeonato Interescolar Ajedrez 2017"
+title = "Bases VIII Campeonato Interescolar Ajedrez"
 draft = false
 tags = ["interescolar","equipos","colegios","2017"]
 image = "/images/VIIIInterescolar/cartelinterescolar.jpg"
+url = "/interescolar2017"
 description = " "
 +++
 
