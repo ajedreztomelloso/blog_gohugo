@@ -10,7 +10,7 @@ quote = "\"Haz una cosa al día que te asuste\" Eleanor Roosevelt"
 
 El lunes 29 de enero tuvo lugar la asamblea del Club Ajedrez Tomelloso. La verdad es que nos sentimos orgullosos de la masa social que compone este club y como cada año nos damos cuenta que acude más gente a la reunión donde solemos informar de las novedades del curso.
 
-En la asamblea se fijó la cuota de los socios para el año 2018. La cuota será como en años anteriores 10 euros por familias que tendrá que ser abonada en la cuenta XXXX-XXXX-XXXX-XXXX-XXXX-XXXX.
+En la asamblea se fijó la cuota de los socios para el año 2018. La cuota será como en años anteriores 10 euros por familias que tendrá que ser abonada en la cuenta ES16 2103 0441 7300 3000 3154.
 
 Además para poder tener un censo online, los socios deberán inscribirse como tal en esta plataforma para poder registrar tanto sus emails como sus teléfonos y así poderlos tener a todos informados con respecto a todas las novedades que vayan surgiendo: 
 
@@ -28,7 +28,7 @@ Por otro lado, ya sabemos cuales van a ser los precios de las licencias federati
 | Técnicos (pago único: Monitor Base o superior y entrenador nacional) | 68,00€ |
 | Técnicos (pago único: Monitor Regional o inferior) | 30,00€ |
 
-El pago de las licencias deberá hacerse también en la cuenta del club: XXXX-XXXX-XXXX-XXXX-XXXX.
+El pago de las licencias deberá hacerse también en la cuenta del club: ES16 2103 0441 7300 3000 3154.
 
 Los pagos de socios y licencias se pueden hacer en una única transferencia. Os recordamos que para jugar el campeonato provincial por edades el próximo 18 de Febrero hay que tener la licencia pagada antes del 15 de Febrero, sino será imposible comenzar la primera ronda.
 
