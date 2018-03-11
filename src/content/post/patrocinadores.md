@@ -21,14 +21,16 @@ tags = ["patrocinadores"]
 |[![Flores_Alba](/images/patrocinadores/FloresAlba.jpg)](https://11870.com/pro/flores-alba-1) |
 |[**Global Asesores**](http://www.globalasesores2012.es/) |
 | [![Global_Asesores](/images/patrocinadores/GlobalAsesores.jpg)](http://www.globalasesores2012.es/) </br> Pasadizo de Toledo, 9 Primera planta </br> Tomelloso </br> Telf. [926 970 996]({{< ref "tel:+34926970996" >}}) </br> <administracion@globalasesores2012.es> |
-|[**Logopedia y Foniatría Esther Bello**](http://www.citiservi.es/ciudad-real/esther-bello-gonzalez-tomelloso__2662995_477.html) |
-|[![Logopedia_EstherBello](/images/patrocinadores/LogopediaEstherBello.jpg)](http://www.citiservi.es/ciudad-real/esther-bello-gonzalez-tomelloso__2662995_477.html) |
+|[**Losa Abogados**](http://bufetelosa.com/)|
+|[![Manchegos_Dental](/images/patrocinadores/juanjolosa.jpg)](http://bufetelosa.com/) |
 |[**Manchegos Dental**](http://manchegosprotesisdental.es/)|
 |[![Manchegos_Dental](/images/patrocinadores/ManchegosDental.png)](http://manchegosprotesisdental.es/) |
 |[**Marquinetti**](http://marquinetti.com/)|
 |[![Marquinetti](/images/patrocinadores/Marquinetti.jpg)](http://marquinetti.com/) |
 |[**Mondema Artesanos**](http://mondemaartesanos.es/) |
 |[[![Mondema_Artesanos](/images/patrocinadores/MondemaArtesanos.png)](http://mondemaartesanos.es/)](http://mondemaartesanos.es/) |
+|[**Escayolas Pedroche**](https://www.construccionespecial.com/empresa-escayolas-pedroche-en-tomelloso-22871) |
+|[![Escayolas Pedroche](/images/patrocinadores/pedroche.jpg) ![Escayolas Pedroche](/images/patrocinadores/pedrochepladur.png)](https://www.construccionespecial.com/empresa-escayolas-pedroche-en-tomelloso-22871) |
 |[**Teccon Lahoz**](http://www.tecconlahoz.es/) <div id="tiradomenchenabogados"></div> |
 |[![Teccon_Lahoz](/images/patrocinadores/TecconLahoz.jpg)](http://www.tecconlahoz.es/) |
 |[**Tirado Ramirez Menchen Abogados**](#tiradomenchenabogados)|

@@ -16,11 +16,18 @@ footer .sponsors .patrocinadores {
 }
 
 footer .sponsors .patrocinadores img {
-    border-radius: 25px;
     height: 60px;
     max-width: 100%;
     padding-right: 10px;
     padding-left: 10px;
+}
+
+footer .sponsors .fillsporsons {
+    min-width: 165px;
+    max-width: 165px;
+    margin: 0 auto;
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 25px;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
@@ -29,13 +36,27 @@ footer .sponsors .patrocinadores img {
     opacity: 0.5;
 }
 
-footer .sponsors .patrocinadores img:hover {
+footer .sponsors .fillsporsons:hover {
     filter: none;
     -webkit-filter: none;
     -moz-filter: none;
     -ms-filter: none;
     -o-filter: none;
     opacity: 1;
+    background-color: rgba(255,255,255);
+}
+
+footer .sponsors .fillsporsons.black {
+    background-color: transparent;
+}
+
+footer .sponsors .fillsporsons.black:hover {
+    background-color: transparent;
+}
+
+footer .sponsors .fillsporsons.black img {
+    width: 100%;
+    border-radius: 25px;
 }
 
 footer .footer-down {

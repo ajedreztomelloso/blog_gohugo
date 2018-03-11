@@ -51,20 +51,29 @@
     top: -10px;
 }
 
-.top-header .content .patrocinadores img {
-    float: right;
+.top-header .content .patrocinadores a .fillheadersponsor {
+    background-color: white;
+    width: 195px;
     height: 65px;
     margin-top: 5px;
     padding-left: 5px;
+    border-radius: 10px;
+    float: right;
 }
 
-.top-header .content .patrocinadores img.right {
+.top-header .content .patrocinadores img {
+    height: 65px;
+    margin: 0 auto;
+    display: block;
+}
+
+/* .top-header .content .patrocinadores img.right {
     float: right;
 }
 
 .top-header .content .patrocinadores img.left {
     float: left;
-}
+} */
 
 .top-header .content .top-actions {
     vertical-align: top;
