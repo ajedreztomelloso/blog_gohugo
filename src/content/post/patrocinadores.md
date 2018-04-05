@@ -25,12 +25,12 @@ tags = ["patrocinadores"]
 |[![Manchegos_Dental](/images/patrocinadores/juanjolosa.jpg)](http://bufetelosa.com/) |
 |[**Manchegos Dental**](http://manchegosprotesisdental.es/)|
 |[![Manchegos_Dental](/images/patrocinadores/ManchegosDental.png)](http://manchegosprotesisdental.es/) |
-|[**Marquinetti**](http://marquinetti.com/)|
+|[**Marquinetti**](http://marquinetti.com/) |
 |[![Marquinetti](/images/patrocinadores/Marquinetti.jpg)](http://marquinetti.com/) |
-|[**Mondema Artesanos**](http://mondemaartesanos.es/) |
+|[**Mondema Artesanos**](http://mondemaartesanos.es/) <div id="escayolaspedroche"></div> |
 |[[![Mondema_Artesanos](/images/patrocinadores/MondemaArtesanos.png)](http://mondemaartesanos.es/)](http://mondemaartesanos.es/) |
-|[**Escayolas Pedroche**](https://www.construccionespecial.com/empresa-escayolas-pedroche-en-tomelloso-22871) |
-|[![Escayolas Pedroche](/images/patrocinadores/pedroche.jpg) ![Escayolas Pedroche](/images/patrocinadores/pedrochepladur.png)](https://www.construccionespecial.com/empresa-escayolas-pedroche-en-tomelloso-22871) |
+|[**Escayolas Pedroche**](#escayolaspedroche) |
+|[![Escayolas Pedroche](/images/patrocinadores/pedroche.jpg) ![Escayolas Pedroche](/images/patrocinadores/pedrochepladur.png)](#escayolaspedroche) </br> Jesús Moreno Pedroche </br> Jesús Moreno Romero  </br> [659 35 87 30]({{< ref "tel:+34659358730" >}})- [635 55 96 07]({{< ref "tel:+34635559607" >}}) </br> <escayolaspedroche@hotmail.com> </br> Tomelloso (C.Real) </br> C/ Lepanto 4, 3°A </br> |
 |[**Teccon Lahoz**](http://www.tecconlahoz.es/) <div id="tiradomenchenabogados"></div> |
 |[![Teccon_Lahoz](/images/patrocinadores/TecconLahoz.jpg)](http://www.tecconlahoz.es/) |
 |[**Tirado Ramirez Menchen Abogados**](#tiradomenchenabogados)|
