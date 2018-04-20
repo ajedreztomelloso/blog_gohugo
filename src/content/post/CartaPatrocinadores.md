@@ -11,7 +11,7 @@ quote = "Toda aventura comienza con un sí"
 
 Estimados compañeros,
 
-* [Autoescuelas Paraíso Vidal](http://evapago.wixsite.com/paraisovial)
+* [Autoescuelas Paraíso Vial](http://evapago.wixsite.com/paraisovial)
 * [Deportes Cronos](http://www.cronostomelloso.com/)
 * [Flores Alba](https://11870.com/pro/flores-alba-1)
 * [Global Asesores](http://www.globalasesores2012.es/)
