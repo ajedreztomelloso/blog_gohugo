@@ -155,7 +155,7 @@ La partida final del torneo, con Álvaro con más bucholz que sus rivales, fue t
 
 ¡Muchas gracias a todos los integrantes del club por hacernos disfrutar con experiencias como esta! Es maravilloso disfrutar entre todos este tipo de torneos en el que se sale muy enriquecido de la convivencia entre todos. Ahora a por los campeonatos de España.
 
-|Torneo    |Premios                                             | Participantes |
+|__Torneo__    |__Premios__                                             | __Participantes__ |
 |:---------|:--------------------------------------------------:|--------------:|
 |SUB-8 |  {{% trophysilver %}}Inés Sánchez-Rey Martínez{{% /trophysilver %}} {{% medalsposition position="sexto" %}} Marino Domínguez {{% /medalsposition %}} {{% medalsposition position="octavo" %}} Héctor Lara Mezcua {{% /medalsposition %}} | 5 |
 |SUB-10 | {{% trophygold %}}Beatriz Jiménez Daza {{% /trophygold %}} {{% trophybronze %}}Francisco Javier Martínez Sevilla {{% /trophybronze %}} {{% medalsposition position="noveno" %}} Alonso Lara Mezcua {{% /medalsposition %}}  | 7 |

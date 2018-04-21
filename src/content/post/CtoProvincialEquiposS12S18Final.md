@@ -44,15 +44,15 @@ Tomelloso A ganador de  esta edición Provincial por equipos de más jóvenes, v
 
 | Clasificación    |      |               |      |        |       |           |                            |
 |------------------|------|---------------|------|--------|-------|-----------|----------------------------|
-| Pos.             | Ran. | Nombre        | Pts. | GamPnt | SB_MG | Elo medio | Origen/Club                |
-| 1                | 1    | Tomelloso A   | 13,0 | 22.5   | 156   | 862       | Tomelloso                  |
+| __Pos.__             | __Ran.__ | __Nombre__        | __Pts.__ | __GamPnt__ | __SB_MG__ | __Elo medio__ | __Origen/Club__                |
+| __1__                | __1__    | __Tomelloso A__   | __13,0__ | __22.5__   | __156__   | __862__       | __Tomelloso__                  |
 | 2                | 3    | Los Molinos A | 11,0 | 19.5   | 134   | 0         | Valdepeñas                 |
-| 3                | 7    | Tomelloso D   | 10,0 | 18     | 108   | 0         | Tomelloso                  |
-| 4                | 2    | Tomelloso B   | 9,0  | 17.5   | 109.5 | 513       | Tomelloso                  |
+| __3__                | __7__    | __Tomelloso D__   | __10,0__ | __18__     | __108__   | __0__         | __Tomelloso__                  |
+| __4__                | __2__    | __Tomelloso B__   | __9,0__  | __17.5__   | __109.5__ | __513__       | __Tomelloso__                  |
 | 5                | 5    | Los Molinos B | 6,0  | 12     | 43    | 0         | Valdepeñas                 |
-| 6                | 6    | Tomelloso C   | 6,0  | 11.5   | 56.5  | 0         | Tomelloso                  |
+| __6__                | __6__    | __Tomelloso C__   | __6,0__  | __11.5__   | __56.5__  | __0__         | __Tomelloso__                  |
 | 7                | 4    | Ciudad Real   | 5,0  | 11.5   | 65.5  | 275       | Ciudad Real                |
-| 8                | 8    | Tomelloso E   | 5,0  | 10     | 44    | 0         | Tomelloso                  |
+| __8__                | __8__    | __Tomelloso E__   | __5,0__  | __10__     | __44__    | __0__         | __Tomelloso__                  |
 | 9                | 9    | Zugzwang A    | 4,0  | 11     | 64    | 0         | Vlllanueva de los Infantes |
 | 10               | 10   | Zugzwang B    | 1,0  | 6.5    | 36    | 0         | Villanueva de los Infantes |
 
@@ -75,22 +75,22 @@ Categoría con ocho equipos, un torneo en sistema liga (Round Robin). Dos equipo
 
 | Clasificación    |      |               |      |        |       |           |                            |
 |------------------|------|---------------|------|--------|-------|-----------|----------------------------|
-| Pos.             | Ran. | Nombre        | Pts. | GamPnt | SB_MG | Elo medio | Origen/Club                |
+| __Pos.__             | __Ran.__ | __Nombre__        | __Pts.__ | __GamPnt__ | __SB_MG__ | __Elo medio__ | __Origen/Club__                |
 | 1                | 4    | Los Molinos A | 13,0 | 22.5   | 132   | 1548      | Valdepeñas                 |
-| 2                | 2    | Tomelloso A   | 11,0 | 20.5   | 108   | 1614      | Tomelloso                  |
+| __2__                | __2__    | __Tomelloso A__   | __11,0__ | __20.5__   | __108__   | __1614__      | __Tomelloso__                  |
 | 3                | 3    | Ciudad Real A | 11,0 | 20     | 105.5 | 1078      | Ciudad Real                |
-| 4                | 8    | Tomelloso C   | 8,0  | 15.5   | 81    | 1231      | Tomelloso                  |
+| __4__                | __8__    | __Tomelloso C__   | __8,0__  | __15.5__   | __81__    | __1231__      | __Tomelloso__                  |
 | 5                | 6    | Ciudad Real B | 6,0  | 11     | 36    | 1143      | Ciudad Real                |
-| 6                | 7    | Tomelloso B   | 4,0  | 10.5   | 43.5  | 920       | Tomelloso                  |
+| __6__                | __7__    | __Tomelloso B__   | __4,0__  | __10.5__   | __43.5__  | __920__       | __Tomelloso__                  |
 | 7                | 5    | Los Molinos B | 3,0  | 7.5    | 32.5  | 553       | Valdepeñas                 |
 | 8                | 1    | Zugzwang      | 0,0  | 4.5    | 37    | 403       | Villanueva de los Infantes |
 
 
 |Torneo    |Premios                                             | Participantes |
 |:---------|:--------------------------------------------------:|--------------:|
-|SUB-12 |  {{% trophygold %}}Tomelloso A{{% /trophygold %}} {{% trophybronze %}} Tomelloso D {{% /trophybronze %}} {{% medalsposition position="Mejor Tablero 2" %}} Álvaro Navarro González {{% /medalsposition %}} {{% medalsposition position="Mejor Tablero 3" %}} Javier Rosado Poveda {{% /medalsposition %}} {{% medalsposition position="Mejor Tablero 4" %}} Sergio Belda Martínez {{% /medalsposition %}} | 10 equipos |
-|SUB-18 | {{% trophysilver %}}Tomelloso A {{% /trophysilver %}} {{% medalsposition position="Mejor Tablero 2" %}} Jorge Rodrigo Díaz-Ropero {{% /medalsposition %}} {{% medalsposition position="Mejor Tablero 3" %}} Álvaro Ramírez Aguado {{% /medalsposition %}} | 8 equipos |
-|__Total__ |  {{% trophygold %}}Tomelloso A Sub-12{{% /trophygold %}} {{% trophysilver %}}Tomelloso A Sub-18 {{% /trophysilver %}} {{% trophybronze %}} Tomelloso D Sub-12 {{% /trophybronze %}} {{% medalsposition position="Mejor Tablero 2 Sub-12" %}} Álvaro Navarro González {{% /medalsposition %}} {{% medalsposition position="Mejor Tablero 3 Sub-12" %}} Javier Rosado Poveda {{% /medalsposition %}} {{% medalsposition position="Mejor Tablero 4 Sub-12" %}} Sergio Belda Martínez {{% /medalsposition %}}  {{% medalsposition position="Mejor Tablero 2 Sub-18" %}} Jorge Rodrigo Díaz-Ropero {{% /medalsposition %}} {{% medalsposition position="Mejor Tablero 3 Sub-18" %}} Álvaro Ramírez Aguado {{% /medalsposition %}} | __88 jugadores__ |
+|SUB-12 |  {{% trophygold %}}Tomelloso A{{% /trophygold %}} {{% trophybronze %}} Tomelloso D {{% /trophybronze %}} {{% medalsgold position="Mejor Tablero 2" %}} Álvaro Navarro González {{% /medalsgold %}} {{% medalsgold position="Mejor Tablero 3" %}} Javier Rosado Poveda {{% /medalsgold %}} {{% medalsgold position="Mejor Tablero 4" %}} Sergio Belda Martínez {{% /medalsgold %}} | 10 equipos |
+|SUB-18 | {{% trophysilver %}}Tomelloso A {{% /trophysilver %}} {{% medalsgold position="Mejor Tablero 2" %}} Jorge Rodrigo Díaz-Ropero {{% /medalsgold %}} {{% medalsgold position="Mejor Tablero 3" %}} Álvaro Ramírez Aguado {{% /medalsgold %}} | 8 equipos |
+|__Total__ |  {{% trophygold %}}Tomelloso A Sub-12{{% /trophygold %}} {{% trophysilver %}}Tomelloso A Sub-18 {{% /trophysilver %}} {{% trophybronze %}} Tomelloso D Sub-12 {{% /trophybronze %}} {{% medalsgold position="Mejor Tablero 2 Sub-12" %}} Álvaro Navarro González {{% /medalsgold %}} {{% medalsgold position="Mejor Tablero 3 Sub-12" %}} Javier Rosado Poveda {{% /medalsgold %}} {{% medalsgold position="Mejor Tablero 4 Sub-12" %}} Sergio Belda Martínez {{% /medalsgold %}}  {{% medalsgold position="Mejor Tablero 2 Sub-18" %}} Jorge Rodrigo Díaz-Ropero {{% /medalsgold %}} {{% medalsgold position="Mejor Tablero 3 Sub-18" %}} Álvaro Ramírez Aguado {{% /medalsgold %}} | __88 jugadores__ |
 
 
 Campeonato Sub-12: https://info64.org/team/provincial-por-equipos-sub-12-2018-ciudad-real/standings

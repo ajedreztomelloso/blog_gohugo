@@ -149,7 +149,7 @@ Finalmente la habitación 114 se impuso sobre la habitación 119 por un score de
 
 {{% /paralelhist %}}
 
-|No.Ini. |Equipo |+  |=  |-  |Des 1  |Des 2  |
+|__No.Ini.__ |__Equipo__ |__+__  |__=__  |__-__  |__Des 1__  |__Des 2__  |
 |:-----|:-----:|:-----:|:-------:|:-------:|:-------:|------:|
 | 1       | C.D. EXCALIBUR                | 5    | 1    | 0    | 11      | 18      | 
 | __2__   | __C.A. TOMELLOSO__            | __5__| __1__| __0__| __11__  | __17__  | 
