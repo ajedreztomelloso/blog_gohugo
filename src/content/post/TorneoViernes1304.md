@@ -2,7 +2,7 @@
 date = "2018-04-13"
 title = "I Torneo Club Ajedrez Tomelloso Viernes 2018"
 draft = false
-tags = ["equipos","provincial","2018"]
+tags = ["viernesajedrez","2018"]
 image = "/images/Viernes2018/Portada1.jpeg"
 description = " "
 +++
