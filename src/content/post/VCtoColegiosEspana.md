@@ -1,5 +1,5 @@
 +++
-date = "2018-05-04"
+date = "2019-05-04"
 author = "angelcarlos"
 title = "El CEIP Félix Grande 5º Clasificado de España"
 draft = false
@@ -118,11 +118,6 @@ Otro punto a destacar es que un monitor de ajedrez no necesita un gran título q
 Y enhorabuena también a los padres de la expedición, que han tenido que soportar a viento y marea viajes, alojamientos y las tensiones de las partidas. Este gran resultado es en gran parte por vuestra culpa.
 
 ### Clasificación
-
-{{% paralelhist %}}
-
-
-{{% /paralelhist %}}
 
 | Pos. | Ran. | Nombre                            | Pts. | MatPnt | GamPnt | Buc_M | SB_MG | Elo medio | Origen/Club        | Origen             |   |   |
 |------|------|-----------------------------------|------|--------|--------|-------|-------|-----------|--------------------|--------------------|---|---|
