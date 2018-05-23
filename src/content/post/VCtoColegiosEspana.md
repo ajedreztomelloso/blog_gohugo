@@ -37,7 +37,7 @@ El colegio Félix Grande salía con su cuarteto más usado durante todo el Campe
 
 * En la mesa 1 Adriana con piezas blancas contra uno de los jugadores más fuertes del torneo Pablo Fuertes (1561) entró en una Grunfeld dónde no supo parar el potente alfil del rival, aguantó con su equipo al lado pero al final la victoria cayó para las negras.
 
-* La mesa 2 Vicente cometió una imprecisión en la apertura que fue castigado con el rey en el centro toda la partida. Cuando parecía que Vicente encontraba un poco de contrajuego un despiste le hizo perder una de sus torre.
+* La mesa 2 Vicente cometió una imprecisión en la apertura que fue castigado con el rey en el centro toda la partida. Cuando parecía que Vicente encontraba un poco de contrajuego un despiste le hizo perder una de sus torres.
 
 ![Félix Grande - El Castellar](/images/VCtoColegiosNacional/JavierRuben.jpeg)
 
@@ -61,7 +61,7 @@ La última partida del encuentro fue de nuestra número uno, Adriana. Después d
 
 ### Ronda 4: Félix Grande 3 - Gredos San Diego "B" 1
 
-En la cuarta ronda nos deparaba el equipo de los locales. Una ronda importante que te garantizaba jugar en las primeras mesas.
+En la cuarta ronda nos deparaba el equipo local. Una ronda importante que te garantizaba jugar en las primeras mesas.
 
 ![Félix Grande - Gredos San Diego "B" ](/images/VCtoColegiosNacional/ronda4.jpeg)
 
@@ -105,17 +105,17 @@ El equipo andaluz de Agave iba a ser nuestro último rival para luchar por el p�
 
 Necesitábamos un punto y medio para vencer en el encuentro.
 
-* Vicente Rosado volvió a tener que tirar del equipo. Javier Latre (1315) perdió al poco de empezar la partida y Vicente dando seguridad y ningún contrajuego a su rival apuntó el 2-1 en el marcador.
+* Vicente Rosado volvió a tener que tirar del equipo. Javier Latre (1315) perdió una pieza al poco de empezar la partida y Vicente dando seguridad y ningún contrajuego a su rival apuntó el 2-1 en el marcador.
 
 * Ya sabemos lo difícil que es jugar en la mesa 1 de un Campeonato España y Adriana estaba preparada. Perdió una pieza en la apertura pero la situación del rey enemigo era inestable. Empezó abrir el centro y apretar a su rival, finalmente una descubierta en los apuros de tiempo le hizo perder la dama de la tomellosera dejando el empate en el marcador.
 
 ![Foto Familia](/images/VCtoColegiosNacional/final.jpeg)
 
-Un quinto puesto histórico que certifica el gran trabajo que se está realizando con el ajedrez en los colegios de nuestra localidad. Aún nos falta el empujón de poder meterlo en todos los colegios que tienen que dar los políticos; pero este quinto puesto repitiendo el resultado conseguido por el colegio Cervantes hace dos años, certifican que la cantera del ajedrez de Tomelloso tiene mucha calidad.
+Un quinto puesto histórico que certifica el gran trabajo que se está realizando con el ajedrez en los colegios de nuestra localidad. Aún nos falta el empujón de poder meterlo en todos los colegios que tienen que dar los políticos; pero este quinto puesto repitiendo el resultado conseguido por el colegio Cervantes hace cuatro años, certifican que la cantera del ajedrez de Tomelloso tiene mucha calidad.
 
 Otro punto a destacar es que un monitor de ajedrez no necesita un gran título que lo certifique. Eduardo López, nuestro presidente, se ha consagrado este año como uno de los mejores (sino el que más) monitores regionales, consiguiendo crear grupos de amigos y grandes pequeños pensadores allá donde va. El grupo que se ha creado alrededor de los chicos, padres, con el apoyo de Juan Carlos Domínguez ha sido excepcional. ¡Esperemos poder seguir contando con ellos mucho tiempo!
 
-Y enhorabuena también a los padres de la expedición, que han tenido que soportar a viento y marea viajes, alojamientos y las tensiones de las partidas. Este gran resultado es en gran parte por vuestra culpa.
+Enhorabuena también a los padres de la expedición y al colegio Félix Grande, como a su directora Inmaculada Palacios, que han tenido que soportar a viento y marea viajes, alojamientos y las tensiones de las partidas. Este gran resultado es en gran parte por vuestra culpa.
 
 ### Clasificación
 
