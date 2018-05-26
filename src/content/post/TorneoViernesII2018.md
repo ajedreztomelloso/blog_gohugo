@@ -1,6 +1,6 @@
 +++
 date = "2018-04-23"
-title = "II Torneo Club Ajedrez Tomelloso Viernes 2018"
+title = "II Torneo Club Ajedrez Tomelloso Viernes"
 draft = false
 tags = ["viernesajedrez","2018"]
 image = "/images/Viernes2018/Portada2.jpeg"
