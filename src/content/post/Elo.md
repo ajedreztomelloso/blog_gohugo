@@ -1,6 +1,6 @@
 +++
 date = "2017-01-07"
-title = "Lista de Enero. Jugadores con ELO que han jugado en el Club Ajedrez Tomelloso"
+title = "Lista de Agosto. Jugadores con ELO que han jugado en el Club Ajedrez Tomelloso"
 draft = false
 tags = ["tomelloso","elo","2017"]
 image = "/images/elo/fide1.jpg"
@@ -16,8 +16,8 @@ Ordenar solo jugadores [Activos](/lista_de_elo_activos)
 
 |    | Jugadores                        | Elo  | Año  |   |   |   |   |   |   |   |   |   |
 |----|----------------------------------|------|------|---|---|---|---|---|---|---|---|---|
-| 1  | García Moreno, Carlos            | 2282 | 1991 |   |   |   |   |   |   |   |   |   |
-| 2  | Ramírez Díaz, José Ramón         | 2180 | 1987 |   |   |   |   |   |   |   |   |   |
+| 1  | García Moreno, Carlos            | 2263 | 1991 |   |   |   |   |   |   |   |   |   |
+| 2  | Ramírez Díaz, José Ramón         | 2200 | 1987 |   |   |   |   |   |   |   |   |   |
 | 3  | Moreno Valero, Iván              | 2171 | 1996 |   |   |   |   |   |   |   |   |   |
 | 4  | López Quevedo, Eduardo           | 2161 | 1992 |   |   |   |   |   |   |   |   |   |
 | 5  | López Quevedo, Ángel Carlos      | 2138 | 1989 |   |   |   |   |   |   |   |   |   |
@@ -65,7 +65,7 @@ Ordenar solo jugadores [Activos](/lista_de_elo_activos)
 | 47 | Ortiz Guzmán, Javier             | 1131 | 1999 |   |   |   |   |   |   |   |   |   |
 | 48 | Moreno Perona, Álvaro            | 1126 | 2006 |   |   |   |   |   |   |   |   |   |
 | 49 | Rodrigo Díaz-Ropero, Carlos      | 1102 | 2002 |   |   |   |   |   |   |   |   |   |
-| 50 | Jiménez Daza, Marta              | 1044 | 2005 |   |   |   |   |   |   |   |   |   |
+| 50 | Jiménez Daza, Marta              | 1089 | 2005 |   |   |   |   |   |   |   |   |   |
 | 51 | Rodrigo Díaz-Ropero, Gonzalo     | 1027 | 2006 |   |   |   |   |   |   |   |   |   |
 | 52 | Rosado Poveda, Vicente           | 1018 | 2006 |   |   |   |   |   |   |   |   |   |
 | 53 | Navarro González, Álvaro         | 1014 | 2007 |   |   |   |   |   |   |   |   |   |
