@@ -7,6 +7,8 @@ image = "/images/RegionalRelampago/reg4.JPG"
 description = " "
 +++
 
+* [Retransmisión en directo](http://view.livechesscloud.com/502e6196-9342-446a-a268-7eb76c323f97)
+
 
 *	Día de juego: 25 de agosto de 201.  
 *	Lugar de juego: Casino Tomelloso. Calle de Don Víctor Peñasco, 25 
